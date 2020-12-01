@@ -1,0 +1,26 @@
+<!-- CREATED BY <भमल> (BHAML MARATHI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->
+<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->
+<भमल>
+
+	<हेड​>
+		<शीर्षक>भारत कोड</शीर्षक>
+	<लिपी भाषा=Javascript>
+
+		क्रिया message()
+
+		{
+
+			सूचना('hello world!');
+
+		}
+
+	</लिपी>
+	</हेड​>
+
+	<बौडी>
+		<परिच्छेद>Hello there! mera naam Nikhil hai!</परिच्छेद>
+		<ए लिंक=http://www.google.com>Google</ए>
+		<इनपुट प्रकार=बटण value='कलिक' onClick='message();'></इनपुट>
+	</बौडी>
+
+</भमल>

@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<BML>
+		<name>html</name>
+		<normal_usage><![CDATA[<html>]]></normal_usage>
+		<description>Specifies an html document</description>
+		<odia>ଭମଳ</odia>
+	</BML>
+	<BML>
+		<name>head</name>
+		<normal_usage><![CDATA[<head>]]></normal_usage>
+		<description>Specifies information about the document</description>
+		<odia>ମୁଣ୍ଡ</odia>
+	</BML>
+	<BML>
+		<name>header</name>
+		<normal_usage><![CDATA[<header>]]></normal_usage>
+		<description>New Tag:Specifies a group of introductory or navigational aids.</description>
+		<odia>ଶୀର୍ଷଲେଖ</odia>
+	</BML>
+	<BML>
+		<name>doctype</name>
+		<normal_usage><![CDATA[<!DOCTYPE>]]></normal_usage>
+		<description>Specifies the document type</description>
+		<odia>ଉପଦେଶ</odia>
+	</BML>
+	<BML>
+		<name>a</name>
+		<normal_usage><![CDATA[<a>]]></normal_usage>
+		<description>Specifies an anchor</description>
+		<odia>ଏ</odia>
+	</BML>
+	<BML>
+		<name>abbr</name>
+		<normal_usage><![CDATA[<abbr>]]></normal_usage>
+		<description>Specifies an abbreviation</description>
+		<odia>ଅବର</odia>
+	</BML>	
+	<BML>
+		<name>address</name>
+		<normal_usage><![CDATA[<address>]]></normal_usage>
+		<description>Specifies an address element</description>
+		<odia>ଠିକଣା</odia>
+	</BML>	
+	<BML>
+		<name>area</name>
+		<normal_usage><![CDATA[<area>]]></normal_usage>
+		<description>Specifies an area inside an image map</description>
+		<odia>କ୍ଷେତ୍ର</odia>
+	</BML>	
+	<BML>
+		<name>article</name>
+		<normal_usage><![CDATA[<article>]]></normal_usage>
+		<description>New Tag: Specifies an independent piece of content of a document, such as a blog entry or newspaper article</description>
+		<odia>ପ୍ରବନ୍ଧ</odia>
+	</BML>	
+	<BML>
+		<name>aside</name>
+		<normal_usage><![CDATA[<aside>]]></normal_usage>
+		<description>New Tag:Specifies a piece of content that is only slightly related to the rest of the page.</description>
+		<odia>ଗୋଟିଏ ପଟେ</odia>
+	</BML>	
+	<BML>
+		<name>audio</name>
+		<normal_usage><![CDATA[<audio>]]></normal_usage>
+		<description>New Tag:Specifies an audio file.</description>
+		<odia>ଅଡିଓ</odia>
+	</BML>		
+	<BML>
+		<name>base</name>
+		<normal_usage><![CDATA[<base>]]></normal_usage>
+		<description>Specifies a base URL for all the links in a page</description>
+		<odia>ଆଧାର</odia>
+	</BML>	
+	<BML>
+		<name>bdo</name>
+		<normal_usage><![CDATA[<bdo>]]></normal_usage>
+		<description>Specifies the direction of text display</description>
+		<odia>ବିଡ଼ିଓ</odia>
+	</BML>		
+	<BML>
+		<name>bgsound</name>
+		<normal_usage><![CDATA[<bgsound>]]></normal_usage>
+		<description>Specifies the background music</description>
+		<odia>ବିଜିଶବ୍ଦ</odia>
+	</BML>	
+	<BML>
+		<name>blink</name>
+		<normal_usage><![CDATA[<blink>]]></normal_usage>
+		<description>Specifies a text that blinks</description>
+		<odia>ବିଳିଙ୍କ</odia>
+	</BML>	
+	<BML>
+		<name>blockquote</name>
+		<normal_usage><![CDATA[<blockquote>]]></normal_usage>
+		<description>Specifies a long quotation</description>
+		<odia>ବ୍ଲକକୋଟ</odia>
+	</BML>	
+	<BML>
+		<name>body</name>
+		<normal_usage><![CDATA[<body>]]></normal_usage>
+		<description>Specifies the body element</description>
+		<odia>ଶରୀର</odia>
+	</BML>		
+	<BML>
+		<name>br</name>
+		<normal_usage><![CDATA[<br>]]></normal_usage>
+		<description>Inserts a single line break</description>
+		<odia>ବର</odia>
+	</BML>	
+	<BML>
+		<name>button</name>
+		<normal_usage><![CDATA[<button>]]></normal_usage>
+		<description>Specifies a push button</description>
+		<odia>ବଟନ୍</odia>
+	</BML>	
+	<BML>
+		<name>canvas</name>
+		<normal_usage><![CDATA[<canvas>]]></normal_usage>
+		<description>New Tag:This is used for rendering dynamic bitmap graphics on the fly, such as graphs or games.</description>
+		<odia>କାନଭାସ୍</odia>
+	</BML>	
+	<BML>
+		<name>caption</name>
+		<normal_usage><![CDATA[<caption>]]></normal_usage>
+		<description>Specifies a table caption</description>
+		<odia>କ୍ୟାପସନ୍</odia>
+	</BML>	
+	<BML>
+		<name>col</name>
+		<normal_usage><![CDATA[<col>]]></normal_usage>
+		<description>Specifies attributes for table columns</description>
+		<odia>କୋଳ</odia>
+	</BML>	
+	<BML>
+		<name>colgroup</name>
+		<normal_usage><![CDATA[<colgroup>]]></normal_usage>
+		<description>Specifies groups of table columns</description>
+		<odia>କୋଳଗୋଷ୍ଠୀ</odia>
+	</BML>	
+	<BML>
+		<name>command</name>
+		<normal_usage><![CDATA[<command>]]></normal_usage>
+		<description>New Tag:Specifies a command the user can invoke</description>
+		<odia>ନିର୍ଦ୍ଦେଶ</odia>
+	</BML>	
+	<BML>
+		<name>comment</name>
+		<normal_usage><![CDATA[<comment>]]></normal_usage>
+		<description>Puts a comment in the document</description>
+		<odia>ମନ୍ତବ୍ୟ</odia>
+	</BML>	
+	<BML>
+		<name>datalist</name>
+		<normal_usage><![CDATA[<datalist>]]></normal_usage>
+		<description>New Tag:Together with the a new list attribute for input can be used to make comboboxes</description>
+		<odia>ତଥ୍ୟ ତାଲିକା</odia>
+	</BML>	
+	<BML>
+		<name>dd</name>
+		<normal_usage><![CDATA[<dd>]]></normal_usage>
+		<description>Specifies a definition description</description>
+		<odia>ଡିଡି</odia>
+	</BML>	
+	<BML>
+		<name>del</name>
+		<normal_usage><![CDATA[<del>]]></normal_usage>
+		<description>Specifies deleted text</description>
+		<odia>ହଟାନ୍ତୁ</odia>
+	</BML>
+	<BML>
+		<name>details</name>
+		<normal_usage><![CDATA[<details>]]></normal_usage>
+		<description>New Tag:Specifies additional information or controls which the user can obtain on demand.</description>
+		<odia>ବିବରଣୀ</odia>
+	</BML>		
+	<BML>
+		<name>div</name>
+		<normal_usage><![CDATA[<div>]]></normal_usage>
+		<description>Specifies a section in a document</description>
+		<odia>ଡିବ</odia>
+	</BML>	
+	<BML>
+		<name>dl</name>
+		<normal_usage><![CDATA[<dl>]]></normal_usage>
+		<description>Specifies a definition list</description>
+		<odia>ଡ଼ିଲ</odia>
+	</BML>	
+	<BML>
+		<name>dt</name>
+		<normal_usage><![CDATA[<dt>]]></normal_usage>
+		<description>Specifies a definition term</description>
+		<odia>ଡିଟି</odia>
+	</BML>	
+	<BML>
+		<name>embed</name>
+		<normal_usage><![CDATA[<embed>]]></normal_usage>
+		<description>New Tag:Defines external interactive content or plugin.</description>
+		<odia>ଏମ୍ବେଡ୍</odia>
+	</BML>	
+	<BML>
+		<name>fieldset</name>
+		<normal_usage><![CDATA[<fieldset>]]></normal_usage>
+		<description>Specifies a fieldset.</description>
+		<odia>କ୍ଷେତ୍ର ସେଟ୍</odia>
+	</BML>	
+	<BML>
+		<name>figure</name>
+		<normal_usage><![CDATA[<figure>]]></normal_usage>
+		<description>New Tag:Specifies a piece of self-contained flow content, typically referenced as a single unit from the main flow of the document.</description>
+		<odia>ଚିତ୍ର</odia>
+	</BML>	
+	<BML>
+		<name>b</name>
+		<normal_usage><![CDATA[<b>]]></normal_usage>
+		<description>specifies a bold text</description>
+		<odia>ମୋଟା</odia>
+	</BML>	
+	<BML>
+		<name>i</name>
+		<normal_usage><![CDATA[<i>]]></normal_usage>
+		<description>specifies an italics text</description>
+		<odia>ବକ୍ର</odia>
+	</BML>		
+	<BML>
+		<name>small</name>
+		<normal_usage><![CDATA[<i>]]></normal_usage>
+		<description>specifies a small text</description>
+		<odia>ଛୋଟ</odia>
+	</BML>		
+	<BML>
+		<name>footer</name>
+		<normal_usage><![CDATA[<footer>]]></normal_usage>
+		<description>New Tag:Specifies a footer for a section and can contain information about the author, copyright information, et cetera.</description>
+		<odia>ସର୍ବ ଶେଷରେ</odia>
+	</BML>	
+	<BML>
+		<name>form</name>
+		<normal_usage><![CDATA[<form>]]></normal_usage>
+		<description>specifies a form</description>
+		<odia>ଫର୍ମ</odia>
+	</BML>		
+	<BML>
+		<name>hgroup</name>
+		<normal_usage><![CDATA[<hgroup>]]></normal_usage>
+		<description>New Tag:Specifies the header of a section.</description>
+		<odia>ଶୀର୍ଷ ଗୋଷ୍ଠୀ</odia>
+	</BML>		
+	<BML>
+		<name>h1</name>
+		<normal_usage><![CDATA[<h1>]]></normal_usage>
+		<description>Header h1</description>
+		<odia>ଶୀର୍ଷଲେଖ ୧</odia>
+	</BML>	
+	<BML>
+		<name>h2</name>
+		<normal_usage><![CDATA[<h2>]]></normal_usage>
+		<description>Header h2</description>
+		<odia>ଶୀର୍ଷଲେଖ ୨</odia>
+	</BML>	
+	<BML>
+		<name>h3</name>
+		<normal_usage><![CDATA[<h3>]]></normal_usage>
+		<description>Header h3</description>
+		<odia>ଶୀର୍ଷଲେଖ ୩</odia>
+	</BML>	
+	<BML>
+		<name>h4</name>
+		<normal_usage><![CDATA[<h4>]]></normal_usage>
+		<description>Header h4</description>
+		<odia>ଶୀର୍ଷଲେଖ ୪</odia>
+	</BML>	
+	<BML>
+		<name>h5</name>
+		<normal_usage><![CDATA[<h5>]]></normal_usage>
+		<description>Header h5</description>
+		<odia>ଶୀର୍ଷଲେଖ ୫</odia>
+	</BML>	
+	<BML>
+		<name>h6</name>
+		<normal_usage><![CDATA[<h6>]]></normal_usage>
+		<description>Header h1</description>
+		<odia>ଶୀର୍ଷଲେଖ ୬</odia>
+	</BML>
+	<BML>
+		<name>hr</name>
+		<normal_usage><![CDATA[<hr>]]></normal_usage>
+		<description>Specifies a horizontal line</description>
+		<odia>ହର</odia>
+	</BML>
+	<BML>
+		<name>iframe</name>
+		<normal_usage><![CDATA[<iframe>]]></normal_usage>
+		<description>Specifies an inline sub window(frame)</description>
+		<odia>ଇଁଫ୍ରାମେ</odia>
+	</BML>
+	<BML>
+		<name>ilayer</name>
+		<normal_usage><![CDATA[<ilayer>]]></normal_usage>
+		<description>Specifies an inline layer</description>
+		<odia>ଇଲଏର</odia>
+	</BML>
+	<BML>
+		<name>img</name>
+		<normal_usage><![CDATA[<image>]]></normal_usage>
+		<description>Specifies an image</description>
+		<odia>ପ୍ରତିଛବି</odia>
+	</BML>
+	<BML>
+		<name>input</name>
+		<normal_usage><![CDATA[<input>]]></normal_usage>
+		<description>Specifies an input field</description>
+		<odia>ଇନପୁଟ୍</odia>
+	</BML>
+	<BML>
+		<name>ins</name>
+		<normal_usage><![CDATA[<ins>]]></normal_usage>
+		<description>Specifies an inserted text</description>
+		<odia>ଭର୍ତ୍ତି</odia>
+	</BML>
+	<BML>
+		<name>keygen</name>
+		<normal_usage><![CDATA[<keygen>]]></normal_usage>
+		<description>New Tag:Specifies control for key pair generation.</description>
+		<odia>ଚାବି ଉତ୍ପାଦନ</odia>
+	</BML>
+	<BML>
+		<name>label</name>
+		<normal_usage><![CDATA[<label>]]></normal_usage>
+		<description>Specifies a label for a form control</description>
+		<odia>ଲେବଲ୍</odia>
+	</BML>
+	<BML>
+		<name>layer</name>
+		<normal_usage><![CDATA[<layer>]]></normal_usage>
+		<description>Specifies a label for a form control</description>
+		<odia>ସ୍ତର</odia>
+	</BML>
+	<BML>
+		<name>legend</name>
+		<normal_usage><![CDATA[<legend>]]></normal_usage>
+		<description>Specifies a title in a fieldset</description>
+		<odia>ଲେଗେନ୍ଦ୍ଵ</odia>
+	</BML>
+	<BML>
+		<name>li</name>
+		<normal_usage><![CDATA[<li>]]></normal_usage>
+		<description>Specifies a list item</description>
+		<odia>ତାଲିକା</odia>
+	</BML>
+	<BML>
+		<name>link</name>
+		<normal_usage><![CDATA[<link>]]></normal_usage>
+		<description>Specifies a resource reference</description>
+		<odia>ସଂମ୍ବନ୍ଧ</odia>
+	</BML>
+	<BML>
+		<name>map</name>
+		<normal_usage><![CDATA[<map>]]></normal_usage>
+		<description>Specifies an image map</description>
+		<odia>ମାନଚିତ୍ର</odia>
+	</BML>
+	<BML>
+		<name>mark</name>
+		<normal_usage><![CDATA[<map>]]></normal_usage>
+		<description>New Tag:Specifies a run of text in one document marked or highlighted for reference purposes, due to its relevance in another context.</description>
+		<odia>ଚିହ୍ନ</odia>
+	</BML>
+	<BML>
+		<name>marquee</name>
+		<normal_usage><![CDATA[<map>]]></normal_usage>
+		<description>Create a scrolling-text marquee</description>
+		<odia>ମାର୍କେ</odia>
+	</BML>
+	<BML>
+		<name>meta</name>
+		<normal_usage><![CDATA[<meta>]]></normal_usage>
+		<description>Specifies meta information</description>
+		<odia>ମେଟା</odia>
+	</BML>
+	<BML>
+		<name>meter</name>
+		<normal_usage><![CDATA[<meter>]]></normal_usage>
+		<description>New Tag:Specifies a measurement, such as disk usage.</description>
+		<odia>ମିଟର</odia>
+	</BML>	
+	<BML>
+		<name>multicol</name>
+		<normal_usage><![CDATA[<multicol>]]></normal_usage>
+		<description>Specifies a multicolumn text flow.</description>
+		<odia>ଏକାଧିକ ସ୍ତମ୍ଭ</odia>
+	</BML>
+	<BML>
+		<name>nav</name>
+		<normal_usage><![CDATA[<nav>]]></normal_usage>
+		<description>New Tag:Specifies a section of the document intended for navigation</description>
+		<odia>ରାସ୍ତା</odia>
+	</BML>	
+	<BML>
+		<name>nobr</name>
+		<normal_usage><![CDATA[<nobr>]]></normal_usage>
+		<description>No breaks allowed in the enclosed text</description>
+		<odia>ଅବିରତ</odia>
+	</BML>	
+	<BML>
+		<name>noembed</name>
+		<normal_usage><![CDATA[<noembed>]]></normal_usage>
+		<description>Specifies content to be presented by browsers that do not support the embed tag</description>
+		<odia>ଏମ୍ବେଡ୍ ନାହିଁ</odia>
+	</BML>
+	<BML>
+		<name>noscript</name>
+		<normal_usage><![CDATA[<noscript>]]></normal_usage>
+		<description>Specifies a noscript section</description>
+		<odia>ଲିପି ନାହିଁ</odia>
+	</BML>
+	<BML>
+		<name>script</name>
+		<normal_usage><![CDATA[<script>]]></normal_usage>
+		<description>Specifies a script section</description>
+		<odia>ଲିପି</odia>
+	</BML>
+	<BML>
+		<name>object</name>
+		<normal_usage><![CDATA[<object>]]></normal_usage>
+		<description>Specifies an embedded object</description>
+		<odia>ବସ୍ତୁ</odia>
+	</BML>
+	<BML>
+		<name>ol</name>
+		<normal_usage><![CDATA[<ol>]]></normal_usage>
+		<description>Specifies an ordered list </description>
+		<odia>କ୍ରମରେ ତାଲିକା</odia>
+	</BML>
+	<BML>
+		<name>optgroup</name>
+		<normal_usage><![CDATA[<optgroup>]]></normal_usage>
+		<description>Specifies an option group</description>
+		<odia>ବିକଳ୍ପ ଗୋଷ୍ଠୀ</odia>
+	</BML>
+	<BML>
+		<name>option</name>
+		<normal_usage><![CDATA[<option>]]></normal_usage>
+		<description>Specifies an option in a drop down list</description>
+		<odia>ବିକଳ୍ପ</odia>
+	</BML>
+	<BML>
+		<name>output</name>
+		<normal_usage><![CDATA[<output>]]></normal_usage>
+		<description>New Tag:Specifies some type of output, such as from a calculation done through scripting.</description>
+		<odia>ଉତ୍ପାଦନ</odia>
+	</BML>
+	<BML>
+		<name>p</name>
+		<normal_usage><![CDATA[<p>]]></normal_usage>
+		<description>Specifies a paragraph</description>
+		<odia>ଅନୁଚ୍ଛେଦ</odia>
+	</BML>	
+	<BML>
+		<name>param</name>
+		<normal_usage><![CDATA[<param>]]></normal_usage>
+		<description>Specifies a parameter for an object</description>
+		<odia>ପାରାମିଟର</odia>
+	</BML>	
+	<BML>
+		<name>cite</name>
+		<normal_usage><![CDATA[<cite>]]></normal_usage>
+		<description>Specifies a citation</description>
+		<odia>ଉଦ୍ଧୃତ</odia>
+	</BML>
+	<BML>
+		<name>code</name>
+		<normal_usage><![CDATA[<code>]]></normal_usage>
+		<description>Specifies a computer code text</description>
+		<odia>କୋଡ୍</odia>
+	</BML>
+	<BML>
+		<name>dfn</name>
+		<normal_usage><![CDATA[<dfn>]]></normal_usage>
+		<description>Specifies a definition term</description>
+		<odia>ସଂଜ୍ଞା</odia>
+	</BML>
+	<BML>
+		<name>em</name>
+		<normal_usage><![CDATA[<em>]]></normal_usage>
+		<description>Specifies an emphasized text</description>
+		<odia>ଜୋର ଦେବା</odia>
+	</BML>
+	<BML>
+		<name>kbd</name>
+		<normal_usage><![CDATA[<kbd>]]></normal_usage>
+		<description>Specifies a keyboard text</description>
+		<odia>କୀବୋର୍ଡ୍</odia>
+	</BML>
+	<BML>
+		<name>samp</name>
+		<normal_usage><![CDATA[<samp>]]></normal_usage>
+		<description>Specifies sample computer code</description>
+		<odia>ନମୁନା</odia>
+	</BML>
+	<BML>
+		<name>strong</name>
+		<normal_usage><![CDATA[<strong>]]></normal_usage>
+		<description>Specifies strong text</description>
+		<odia>ଶକ୍ତିଶାଳୀ</odia>
+	</BML>
+	<BML>
+		<name>var</name>
+		<normal_usage><![CDATA[<var>]]></normal_usage>
+		<description>Specifies a variable</description>
+		<odia>ଅସ୍ଥିର</odia>
+	</BML>
+	<BML>
+		<name>pre</name>
+		<normal_usage><![CDATA[<pre>]]></normal_usage>
+		<description>Specifies preformatted text</description>
+		<odia>ପୂର୍ବ</odia>
+	</BML>
+	<BML>
+		<name>progress</name>
+		<normal_usage><![CDATA[<progress>]]></normal_usage>
+		<description>New Tag:Specifies a completion of a task, such as downloading or when performing a series of expensive operations.</description>
+		<odia>ପ୍ରଗତି</odia>
+	</BML>
+	<BML>
+		<name>q</name>
+		<normal_usage><![CDATA[<q>]]></normal_usage>
+		<description>Specifies a short quotation</description>
+		<odia>ଉଦ୍ଧୃତି</odia>
+	</BML>
+	<BML>
+		<name>ruby</name>
+		<normal_usage><![CDATA[<ruby>]]></normal_usage>
+		<description>New Tag:Together with rt and rp allow for marking up ruby annotations</description>
+		<odia>ରୁବି</odia>
+	</BML>
+	<BML>
+		<name>section</name>
+		<normal_usage><![CDATA[<section>]]></normal_usage>
+		<description>New Tag:Represents a generic document or application section.</description>
+		<odia>ବିଭାଗ</odia>
+	</BML>	
+	<BML>
+		<name>select</name>
+		<normal_usage><![CDATA[<select>]]></normal_usage>
+		<description>Specifies a selectable list</description>
+		<odia>ଚୟନ</odia>
+	</BML>	
+	<BML>
+		<name>spacer</name>
+		<normal_usage><![CDATA[<spacer>]]></normal_usage>
+		<description>Specifies a white space</description>
+		<odia>ଅନ୍ତର</odia>
+	</BML>	
+	<BML>
+		<name>span</name>
+		<normal_usage><![CDATA[<span>]]></normal_usage>
+		<description>Specifies a section in a document</description>
+		<odia>ଅଂଶ</odia>
+	</BML>	
+	<BML>
+		<name>style</name>
+		<normal_usage><![CDATA[<style>]]></normal_usage>
+		<description>Specifies a section in a document</description>
+		<odia>ଶୈଳୀ</odia>
+	</BML>
+	<BML>
+		<name>sub</name>
+		<normal_usage><![CDATA[<sub>]]></normal_usage>
+		<description>Specifies subscripted text</description>
+		<odia>ସବ୍</odia>
+	</BML>
+	<BML>
+		<name>sup</name>
+		<normal_usage><![CDATA[<sup>]]></normal_usage>
+		<description>Specifies super-scripted text</description>
+		<odia>ସପ</odia>
+	</BML>
+	<BML>
+		<name>table</name>
+		<normal_usage><![CDATA[<table>]]></normal_usage>
+		<description>Specifies a table</description>
+		<odia>ଟେବୁଲ୍</odia>
+	</BML>
+	<BML>
+		<name>tbody</name>
+		<normal_usage><![CDATA[<tbody>]]></normal_usage>
+		<description>Specifies a table body</description>
+		<odia>ଟେବୁଲ୍ ଶରୀର</odia>
+	</BML>
+	<BML>
+		<name>td</name>
+		<normal_usage><![CDATA[<td>]]></normal_usage>
+		<description>Specifies a table cell</description>
+		<odia>ଟେବୁଲ୍ କକ୍ଷ</odia>
+	</BML>
+	<BML>
+		<name>textarea</name>
+		<normal_usage><![CDATA[<textarea>]]></normal_usage>
+		<description>Specifies a text area.</description>
+		<odia>ପାଠ୍ୟ କ୍ଷେତ୍ର</odia>
+	</BML>
+	<BML>
+		<name>tfoot</name>
+		<normal_usage><![CDATA[<tfoot>]]></normal_usage>
+		<description>Specifies a table footer.</description>
+		<odia>ଟେବୁଲ୍ ନିମ୍ନରେ</odia>
+	</BML>
+	<BML>
+		<name>th</name>
+		<normal_usage><![CDATA[<th>]]></normal_usage>
+		<description>Specifies a table header.</description>
+		<odia>ଟେବୁଲ୍ ଶୀର୍ଷଲେଖ</odia>
+	</BML>
+	<BML>
+		<name>thead</name>
+		<normal_usage><![CDATA[<thead>]]></normal_usage>
+		<description>Specifies a table header.</description>
+		<odia>ଟେବୁଲ୍ ଶୀର୍ଷ</odia>
+	</BML>
+	<BML>
+		<name>time</name>
+		<normal_usage><![CDATA[<time>]]></normal_usage>
+		<description>New Tag:Specifies a date and/or time.</description>
+		<odia>ସମୟ</odia>
+	</BML>
+	<BML>
+		<name>title</name>
+		<normal_usage><![CDATA[<title>]]></normal_usage>
+		<description>Specifies the document title</description>
+		<odia>ଆଖ୍ୟା</odia>
+	</BML>
+	<BML>
+		<name>tr</name>
+		<normal_usage><![CDATA[<tr>]]></normal_usage>
+		<description>Specifies the table row</description>
+		<odia>ଟେବୁଲ୍ ଧାଡି</odia>
+	</BML>
+	<BML>
+		<name>ul</name>
+		<normal_usage><![CDATA[<ul>]]></normal_usage>
+		<description>Specifies an unordered list</description>
+		<odia>ଅନିୟମିତ ତାଲିକା</odia>
+	</BML>
+	<BML>
+		<name>video</name>
+		<normal_usage><![CDATA[<video>]]></normal_usage>
+		<description>New Tag:Specifies a video file</description>
+		<odia>ଭିଡିଓ</odia>
+	</BML>
+	<BML>
+		<name>wbr</name>
+		<normal_usage><![CDATA[<wbr>]]></normal_usage>
+		<description>New Tag:Specifies a line break opportunity.</description>
+		<odia>ବର୍ବର</odia>
+	</BML>
+	<BML>
+		<name>language</name>
+		<normal_usage><![CDATA[attrbute: used as <Script language=>]]></normal_usage>
+		<description>Attribute for script</description>
+		<odia>ଭାଷା</odia>
+	</BML>
+	<BML>
+		<name>href</name>
+		<normal_usage><![CDATA[attrbute: used as <a href=>]]></normal_usage>
+		<description>Attribute for anchor tag</description>
+		<odia>ସନ୍ଦର୍ଭ</odia>
+	</BML>
+	<BML>
+		<name>function</name>
+		<normal_usage><![CDATA[attrbute: used in Javascript]]></normal_usage>
+		<description>Attribute for javascript tag</description>
+		<odia>କାର୍ଯ୍ୟ</odia>
+	</BML>
+	<BML>
+		<name>alert</name>
+		<normal_usage><![CDATA[attrbute: used in Javascript]]></normal_usage>
+		<description>Attribute for alert tag</description>
+		<odia>ସତର୍କ</odia>
+	</BML>
+	<BML>
+		<name>type</name>
+		<normal_usage><![CDATA[attrbute: used in html for input and other things]]></normal_usage>
+		<description>Attribute for alert tag</description>
+		<odia>ପ୍ରକାର</odia>
+	</BML>
+</root>
