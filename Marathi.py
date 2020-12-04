@@ -5,11 +5,11 @@ class Marathi(object):
 
 	def base_file_message(self):
 		base_message = ""
-		base_message += "<!-- CREATED BY <भमल> (BHAML MARATHI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
+		base_message += "<!-- CREATED BY (BHAML MARATHI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
 		base_message += "<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->\n"
 		base_message += "<भमल>"
 		base_message += "\n\n\t<हेड​>"
-		base_message += "\n\t\t<शीर्षक>भारत कोड</शीर्षक>"
+		base_message += "\n\t\t<पदवी>भारत कोड</पदवी>"
 		base_message += "\n\t<लिपी भाषा=""Javascript"">"
 		base_message += "\n\n\t\tक्रिया message()"
 		base_message += "\n\n\t\t{"
@@ -19,7 +19,7 @@ class Marathi(object):
 		base_message += "\n\t</हेड​>"
 		base_message += "\n\n\t<बौडी>"
 		base_message += "\n\t\t<परिच्छेद>Hello there! mera naam Nikhil hai!</परिच्छेद>"
-		base_message += "\n\t\t<ए लिंक=""http://www.google.com"">Google</ए>"
+		base_message += "\n\t\t<ए दुवा=""http://www.google.com"">Google</ए>"
 		base_message += "\n\t\t<इनपुट प्रकार=बटण value='कलिक' onClick='message();'></इनपुट>"
 		base_message += "\n\t</बौडी>"
 		base_message += "\n\n</भमल>"
@@ -40,6 +40,6 @@ class Marathi(object):
 								"ऐ","ओ","औ","्","ा","ि",
 								"ी","ु","ू","ृ","ॄ","ॢ",
 								"ॣ","े","ै","ो","ौ","ँ",
-								"ं","ः","़","A"
+								"ं","ः","़"
 								]
 		return button_string_array

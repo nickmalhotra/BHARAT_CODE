@@ -1,9 +1,9 @@
-<!-- CREATED BY <भमल> (BHAML MARATHI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->
+<!-- CREATED BY (BHAML MARATHI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->
 <!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->
 <भमल>
 
 	<हेड​>
-		<शीर्षक>भारत कोड</शीर्षक>
+		<पदवी>भारत कोड</पदवी>
 	<लिपी भाषा=Javascript>
 
 		क्रिया message()
@@ -19,7 +19,7 @@
 
 	<बौडी>
 		<परिच्छेद>Hello there! mera naam Nikhil hai!</परिच्छेद>
-		<ए लिंक=http://www.google.com>Google</ए>
+		<ए दुवा=http://www.google.com>Google</ए>
 		<इनपुट प्रकार=बटण value='कलिक' onClick='message();'></इनपुट>
 	</बौडी>
 

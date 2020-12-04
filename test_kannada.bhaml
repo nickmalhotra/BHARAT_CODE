@@ -1,0 +1,26 @@
+<!-- CREATED BY (BHAML KANNADA)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->
+<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->
+<ಬಿಎಂಎಲ್>
+
+	<ಹೆಡ್>
+		<ಶೀರ್ಷಿಕೆ>भारत कोड</ಶೀರ್ಷಿಕೆ>
+	<ಸ್ಕ್ರಿಪ್ಟ್ ಭಾಷೆ=Javascript>
+
+		ಕೆಲಸ message()
+
+		{
+
+			ಎಚ್ಚರಿಕೆ('hello world!');
+
+		}
+
+	</ಸ್ಕ್ರಿಪ್ಟ್>
+	</ಹೆಡ್>
+
+	<ಬಾಡಿ>
+		<ಪ್ಯಾರಾಗ್ರಾಫ್>Hello there! mera naam Nikhil hai!</ಪ್ಯಾರಾಗ್ರಾಫ್>
+		<ಎ ಲಿಂಕ್=http://www.google.com>Google</ಎ>
+		<ಇನ್ಪುಟ್ ಮಾದರಿ=ಬಟನ್ value='कलिक' onClick='message();'></ಇನ್ಪುಟ್>
+	</ಬಾಡಿ>
+
+</ಬಿಎಂಎಲ್>

@@ -7,6 +7,9 @@
 		<hindi>भमल</hindi>
 		<marathi>भमल</marathi>
 		<odia>ଭମଳ</odia>
+        <telugu>బిమల్</telugu>
+ 		<gujarati>ભમલ</gujarati>
+ 		<kannada>ಬಿಎಂಎಲ್</kannada>
 	</BML>
 	<BML>
 		<name>head</name>
@@ -15,6 +18,9 @@
 		<hindi>हैड</hindi>
 		<marathi>हेड​</marathi>
 		<odia>ମୁଣ୍ଡ</odia>
+        <telugu>హెడ్</telugu>
+        <gujarati>હેડ</gujarati>
+        <kannada>ಹೆಡ್</kannada>
 	</BML>
 	<BML>
 		<name>header</name>
@@ -23,6 +29,9 @@
 		<hindi>हैडर</hindi>
 		<marathi>हेडर​</marathi>
 		<odia>ଶୀର୍ଷଲେଖ</odia>
+        <telugu>హెడర్</telugu>
+        <gujarati>હેડર</gujarati>
+        <kannada>ಹೆಡ್ಡರ್</kannada>
 	</BML>
 	<BML>
 		<name>doctype</name>
@@ -30,7 +39,10 @@
 		<description>Specifies the document type</description>
 		<hindi>डौक़टाइप</hindi>
 		<marathi>डौक़टाइप</marathi>
-		<odia>ଉପଦେଶ</odia>	
+		<odia>ଉପଦେଶ</odia>
+        <telugu>డాక్టైప్</telugu>
+        <gujarati>ડોકટાઇપ</gujarati>
+        <kannada>ಡಾಕ್ಟೈಪ್</kannada>
 	</BML>
 	<BML>
 		<name>a</name>
@@ -39,6 +51,9 @@
 		<hindi>ए</hindi>
 		<marathi>ए</marathi>
 		<odia>ଏ</odia>
+        <telugu>ఏ</telugu>
+        <gujarati>એ</gujarati>
+        <kannada>ಎ</kannada>
 	</BML>
 	<BML>
 		<name>abbr</name>
@@ -47,6 +62,9 @@
 		<hindi>एबबर</hindi>
 		<marathi>एबबर</marathi>
 		<odia>ଅବର</odia>
+        <telugu>ఏబిబిర్</telugu>
+        <gujarati>એબબર</gujarati>
+        <kannada>ಎಬಿಬಿರ್</kannada>
 	</BML>	
 	<BML>
 		<name>address</name>
@@ -55,6 +73,10 @@
 		<hindi>पता</hindi>
 		<marathi>पत्ता</marathi>
 		<odia>ଠିକଣା</odia>
+        <telugu>చిరునామా</telugu>
+        <gujarati>સરનામું</gujarati>
+        <kannada>ವಿಳಾಸ</kannada>
+        <kannada>ವಿಳಾಸ</kannada>
 	</BML>	
 	<BML>
 		<name>area</name>
@@ -63,6 +85,9 @@
 		<hindi>क्षेत्र</hindi>
 		<marathi>क्षेत्र</marathi>
 		<odia>କ୍ଷେତ୍ର</odia>
+        <telugu>ప్రాంతం</telugu>
+        <gujarati>વિસ્તાર</gujarati>
+        <kannada>ಪ್ರದೇಶ</kannada>
 	</BML>	
 	<BML>
 		<name>article</name>
@@ -71,6 +96,9 @@
 		<hindi>लेख</hindi>
 		<marathi>लेख</marathi>
 		<odia>ପ୍ରବନ୍ଧ</odia>
+        <telugu>వ్యాసం</telugu>
+        <gujarati>લેખ</gujarati>
+        <kannada>ಲೇಖನ</kannada>
 	</BML>	
 	<BML>
 		<name>aside</name>
@@ -78,7 +106,10 @@
 		<description>New Tag:Specifies a piece of content that is only slightly related to the rest of the page.</description>
 		<hindi>अलग</hindi>
 		<marathi>बाजुला</marathi>
-		<odia>ଗୋଟିଏ ପଟେ</odia>
+		<odia>ଗୋଟିଏପଟେ</odia>
+        <telugu>పక్కన</telugu>
+        <gujarati>બાજુપર</gujarati>
+        <kannada>ಪಕ್ಕಕ್ಕೆ</kannada>
 	</BML>	
 	<BML>
 		<name>audio</name>
@@ -87,6 +118,9 @@
 		<hindi>ऑडियो</hindi>
 		<marathi>ऑडियो</marathi>
 		<odia>ଅଡିଓ</odia>
+        <telugu>ధ్వని</telugu>
+        <gujarati>ઓડિયો</gujarati>
+        <kannada>ಆಡಿಯೋ</kannada>
 	</BML>		
 	<BML>
 		<name>base</name>
@@ -95,6 +129,9 @@
 		<hindi>बेस</hindi>
 		<marathi>बेस</marathi>
 		<odia>ଆଧାର</odia>
+        <telugu>బేస్</telugu>
+        <gujarati>બેસ</gujarati>
+        <kannada>ಬೇಸ್</kannada>
 	</BML>	
 	<BML>
 		<name>bdo</name>
@@ -103,6 +140,9 @@
 		<hindi>बीडीऒ</hindi>
 		<marathi>बीडीऒ</marathi>
 		<odia>ବିଡ଼ିଓ</odia>
+        <telugu>బిడిఓ</telugu>
+        <gujarati>બીડીઓ</gujarati>
+        <kannada>ಬಿಡಿಓ</kannada>
 	</BML>		
 	<BML>
 		<name>bgsound</name>
@@ -111,6 +151,9 @@
 		<hindi>बीज़ीध्वनि</hindi>
 		<marathi>बीज़ीध्वनि</marathi>
 		<odia>ବିଜିଶବ୍ଦ</odia>
+        <telugu>బీజీసౌండ్</telugu>
+        <gujarati>બીગીઅવાજ</gujarati>
+        <kannada>ಬಿಜಿಸೌಂಡ್</kannada>
 	</BML>	
 	<BML>
 		<name>blink</name>
@@ -119,6 +162,9 @@
 		<hindi>ब्लिंक़</hindi>
 		<marathi>ब्लिंक़</marathi>
 		<odia>ବିଳିଙ୍କ</odia>
+        <telugu>బ్లింక్</telugu>
+        <gujarati>બ્લિન્ક</gujarati>
+        <kannada>ಬ್ಲಿಂಕ್</kannada>
 	</BML>	
 	<BML>
 		<name>blockquote</name>
@@ -127,6 +173,9 @@
 		<hindi>ब्लॉककोट</hindi>
 		<marathi>ब्लॉककोट</marathi>
 		<odia>ବ୍ଲକକୋଟ</odia>
+        <telugu>బ్లాక్కోట్</telugu>
+        <gujarati>બ્લોકકોટ</gujarati>
+        <kannada>ಬ್ಲಾಕ್‌ಚೇನ್</kannada>
 	</BML>	
 	<BML>
 		<name>body</name>
@@ -135,6 +184,9 @@
 		<hindi>बौडी</hindi>
 		<marathi>बौडी</marathi>
 		<odia>ଶରୀର</odia>
+        <telugu>శరీరం</telugu>
+        <gujarati>બોડી</gujarati>
+        <kannada>ಬಾಡಿ</kannada>
 	</BML>		
 	<BML>
 		<name>br</name>
@@ -143,6 +195,9 @@
 		<hindi>बर</hindi>
 		<marathi>ब्रेक</marathi>
 		<odia>ବର</odia>
+        <telugu>బిఆర్</telugu>
+        <gujarati>બ્રેક</gujarati>
+        <kannada>ಬಿರ್</kannada>
 	</BML>	
 	<BML>
 		<name>button</name>
@@ -151,6 +206,9 @@
 		<hindi>बटन</hindi>
 		<marathi>बटण</marathi>
 		<odia>ବଟନ୍</odia>
+        <telugu>బటన్</telugu>
+        <gujarati>બટન</gujarati>
+        <kannada>ಬಟನ್</kannada>
 	</BML>	
 	<BML>
 		<name>canvas</name>
@@ -159,6 +217,9 @@
 		<hindi>कैनवस</hindi>
 		<marathi>कॅनव्हास</marathi>
 		<odia>କାନଭାସ୍</odia>
+        <telugu>కాన్వాస్</telugu>
+        <gujarati>કેનવાસ</gujarati>
+        <kannada>ಕ್ಯಾನ್ವಾಸ್</kannada>
 	</BML>	
 	<BML>
 		<name>caption</name>
@@ -167,6 +228,9 @@
 		<hindi>कैपशन</hindi>
 		<marathi>कॅप्शन</marathi>
 		<odia>କ୍ୟାପସନ୍</odia>
+        <telugu>కాప్షన్</telugu>
+        <gujarati>કૅપ્શન</gujarati>
+        <kannada>ಕ್ಯಾಪ್ಶನ್</kannada>
 	</BML>	
 	<BML>
 		<name>col</name>
@@ -175,6 +239,9 @@
 		<hindi>कौल</hindi>
 		<marathi>स्तंभ</marathi>
 		<odia>କୋଳ</odia>
+        <telugu>కోల్</telugu>
+        <gujarati>કોલ</gujarati>
+        <kannada>ಕಾಲಮ್</kannada>
 	</BML>	
 	<BML>
 		<name>colgroup</name>
@@ -183,6 +250,9 @@
 		<hindi>कौलग़ऱ्प</hindi>
 		<marathi>स्तंभगट</marathi>
 		<odia>କୋଳଗୋଷ୍ଠୀ</odia>
+        <telugu>కోల్గ్రూప్</telugu>
+        <gujarati>કોલગ્રૂપ</gujarati>
+        <kannada>ಕಾಲಮ್ಗುಂಪು</kannada>
 	</BML>	
 	<BML>
 		<name>command</name>
@@ -191,6 +261,9 @@
 		<hindi>आदेश</hindi>
 		<marathi>आदेश</marathi>
 		<odia>ନିର୍ଦ୍ଦେଶ</odia>
+        <telugu>ఆదేశం</telugu>
+        <gujarati>આદેશ</gujarati>
+        <kannada>ಆಜ್ಞೆ</kannada>
 	</BML>	
 	<BML>
 		<name>comment</name>
@@ -199,6 +272,9 @@
 		<hindi>कमैंट</hindi>
 		<marathi>टिप्पणी</marathi>
 		<odia>ମନ୍ତବ୍ୟ</odia>
+        <telugu>వ్యాఖ్య</telugu>
+        <gujarati>ટિપ્પણી</gujarati>
+        <kannada>ಕಾಮೆಂಟ್</kannada>
 	</BML>	
 	<BML>
 		<name>datalist</name>
@@ -206,7 +282,10 @@
 		<description>New Tag:Together with the a new list attribute for input can be used to make comboboxes</description>
 		<hindi>डेटालिस्ट</hindi>
 		<marathi>डेटालिस्ट</marathi>
-		<odia>ତଥ୍ୟ ତାଲିକା</odia>
+		<odia>ତଥ୍ୟତାଲିକା</odia>
+        <telugu>డేటాలిస్ట్</telugu>
+        <gujarati>ડેટાલિસ્ટ</gujarati>
+        <kannada>ಡೇಟಾಲಿಸ್ಟ್</kannada>
 	</BML>	
 	<BML>
 		<name>dd</name>
@@ -215,6 +294,9 @@
 		<hindi>डीडी</hindi>
 		<marathi>डीडी</marathi>
 		<odia>ଡିଡି</odia>
+        <telugu>డిడి</telugu>
+        <gujarati>ડીડી</gujarati>
+        <kannada>ಡಿಡಿ</kannada>
 	</BML>	
 	<BML>
 		<name>del</name>
@@ -223,6 +305,9 @@
 		<hindi>हटा</hindi>
 		<marathi>काढा</marathi>
 		<odia>ହଟାନ୍ତୁ</odia>
+        <telugu>యొక్క</telugu>
+        <gujarati>છેકો</gujarati>
+        <kannada>ತೆಗೆದು</kannada>
 	</BML>
 	<BML>
 		<name>details</name>
@@ -231,6 +316,9 @@
 		<hindi>विवरण</hindi>
 		<marathi>तपशील</marathi>
 		<odia>ବିବରଣୀ</odia>
+        <telugu>వివరాలు</telugu>
+        <gujarati>વિગતો</gujarati>
+        <kannada>ವಿವರಗಳು</kannada>
 	</BML>		
 	<BML>
 		<name>div</name>
@@ -239,6 +327,9 @@
 		<hindi>डिव</hindi>
 		<marathi>डिव</marathi>
 		<odia>ଡିବ</odia>
+        <telugu>డీవ్</telugu>
+        <gujarati>ડિવ</gujarati>
+        <kannada>ಡಿವ್</kannada>
 	</BML>	
 	<BML>
 		<name>dl</name>
@@ -247,6 +338,9 @@
 		<hindi>डील</hindi>
 		<marathi>डील</marathi>
 		<odia>ଡ଼ିଲ</odia>
+        <telugu>డిల్</telugu>
+        <gujarati>ડીલ</gujarati>
+        <kannada>ಡಿಲ್</kannada>
 	</BML>	
 	<BML>
 		<name>dt</name>
@@ -255,6 +349,9 @@
 		<hindi>डीटी</hindi>
 		<marathi>डीटी</marathi>
 		<odia>ଡିଟି</odia>
+        <telugu>డిటీ</telugu>
+        <gujarati>ડીટી</gujarati>
+        <kannada>ಡಿಟಿ</kannada>
 	</BML>	
 	<BML>
 		<name>embed</name>
@@ -263,6 +360,9 @@
 		<hindi>एम्बेड</hindi>
 		<marathi>अंतर्भूत</marathi>
 		<odia>ଏମ୍ବେଡ୍</odia>
+        <telugu>పొందుపరచండి</telugu>
+        <gujarati>એમ્બેડ</gujarati>
+        <kannada>ಸೇರಿಸಿ</kannada>
 	</BML>	
 	<BML>
 		<name>fieldset</name>
@@ -271,6 +371,9 @@
 		<hindi>फील्डसैट</hindi>
 		<marathi>फ़ील्डसेट​</marathi>
 		<odia>କ୍ଷେତ୍ର ସେଟ୍</odia>
+        <telugu>ఫీల్డ్‌సెట్</telugu>
+        <gujarati>ફીલ્ડસેટ</gujarati>
+        <kannada>ಫೀಲ್ಡ್ಸೆಟ್</kannada>
 	</BML>	
 	<BML>
 		<name>figure</name>
@@ -279,6 +382,9 @@
 		<hindi>चितऱ</hindi>
 		<marathi>आकृती</marathi>
 		<odia>ଚିତ୍ର</odia>
+        <telugu>ఆకృతి</telugu>
+        <gujarati>આકૃતિ</gujarati>
+        <kannada>ಫಿಗರ್</kannada>
 	</BML>	
 	<BML>
 		<name>b</name>
@@ -287,6 +393,9 @@
 		<hindi>मोटा</hindi>
 		<marathi>जाडे</marathi>
 		<odia>ମୋଟା</odia>
+        <telugu>బి</telugu>
+        <gujarati>જાડું</gujarati>
+        <kannada>ದಪ್ಪ</kannada>
 	</BML>	
 	<BML>
 		<name>i</name>
@@ -295,6 +404,9 @@
 		<hindi>तिरछा</hindi>
 		<marathi>तिरपे</marathi>
 		<odia>ବକ୍ର</odia>
+        <telugu>ఐ</telugu>
+        <gujarati>ઢળતું</gujarati>
+        <kannada>ಇಟಾಲಿಕ್</kannada>
 	</BML>		
 	<BML>
 		<name>small</name>
@@ -303,6 +415,9 @@
 		<hindi>छोटा</hindi>
 		<marathi>छोटे</marathi>
 		<odia>ଛୋଟ</odia>
+        <telugu>చిన్నది</telugu>
+        <gujarati>નાનું</gujarati>
+        <kannada>ಸಣ್ಣ</kannada>
 	</BML>		
 	<BML>
 		<name>footer</name>
@@ -310,7 +425,10 @@
 		<description>New Tag:Specifies a footer for a section and can contain information about the author, copyright information, et cetera.</description>
 		<hindi>रेखा</hindi>
 		<marathi>तळटीप​</marathi>
-		<odia>ସର୍ବ ଶେଷରେ</odia>
+		<odia>ସର୍ବଶେଷରେ</odia>
+        <telugu>ఫుటరు</telugu>
+        <gujarati>ફૂટર</gujarati>
+        <kannada>ಫೂಟರ್</kannada>
 	</BML>	
 	<BML>
 		<name>form</name>
@@ -319,6 +437,9 @@
 		<hindi>फ़ार्म</hindi>
 		<marathi>फॉर्म</marathi>
 		<odia>ଫର୍ମ</odia>
+        <telugu>రూపం</telugu>
+        <gujarati>ફોર્મ</gujarati>
+        <kannada>ಫಾರಂ</kannada>
 	</BML>		
 	<BML>
 		<name>hgroup</name>
@@ -326,7 +447,10 @@
 		<description>New Tag:Specifies the header of a section.</description>
 		<hindi>हगऱुप</hindi>
 		<marathi>हगऱुप</marathi>
-		<odia>ଶୀର୍ଷ ଗୋଷ୍ଠୀ</odia>
+		<odia>ଶୀର୍ଷଗୋଷ୍ଠୀ</odia>
+        <telugu>హెగ్రూప్</telugu>
+        <gujarati>હગ્રૂપ</gujarati>
+        <kannada>ಉನ್ನತಗುಂಪು</kannada>
 	</BML>		
 	<BML>
 		<name>h1</name>
@@ -334,7 +458,10 @@
 		<description>Header h1</description>
 		<hindi>ह1</hindi>
 		<marathi>ह1</marathi>
-		<odia>ଶୀର୍ଷଲେଖ ୧</odia>
+		<odia>ଶୀର୍ଷଲେଖ୧</odia>
+        <telugu>హె1</telugu>
+        <gujarati>હ1</gujarati>
+        <kannada>ಹ್1</kannada>
 	</BML>	
 	<BML>
 		<name>h2</name>
@@ -342,7 +469,10 @@
 		<description>Header h2</description>
 		<hindi>ह2</hindi>
 		<marathi>ह2</marathi>
-		<odia>ଶୀର୍ଷଲେଖ ୨</odia>
+		<odia>ଶୀର୍ଷଲେଖ୨</odia>
+        <telugu>హె2</telugu>
+        <gujarati>હ2</gujarati>
+        <kannada>ಹ್2</kannada>
 	</BML>	
 	<BML>
 		<name>h3</name>
@@ -350,7 +480,10 @@
 		<description>Header h3</description>
 		<hindi>ह3</hindi>
 		<marathi>ह3</marathi>
-		<odia>ଶୀର୍ଷଲେଖ ୩</odia>
+		<odia>ଶୀର୍ଷଲେଖ୩</odia>
+        <telugu>హె3</telugu>
+        <gujarati>હ3</gujarati>
+        <kannada>ಹ್3</kannada>
 	</BML>	
 	<BML>
 		<name>h4</name>
@@ -358,7 +491,10 @@
 		<description>Header h4</description>
 		<hindi>ह4</hindi>
 		<marathi>ह4</marathi>
-		<odia>ଶୀର୍ଷଲେଖ ୪</odia>
+		<odia>ଶୀର୍ଷଲେଖ୪</odia>
+        <telugu>హె4</telugu>
+        <gujarati>હ4</gujarati>
+        <kannada>ಹ್4</kannada>
 	</BML>	
 	<BML>
 		<name>h5</name>
@@ -366,7 +502,10 @@
 		<description>Header h5</description>
 		<hindi>ह5</hindi>
 		<marathi>ह5</marathi>
-		<odia>ଶୀର୍ଷଲେଖ ୫</odia>
+		<odia>ଶୀର୍ଷଲେଖ୫</odia>
+        <telugu>హె5</telugu>
+        <gujarati>હ5</gujarati>
+        <kannada>ಹ್5</kannada>
 	</BML>	
 	<BML>
 		<name>h6</name>
@@ -374,7 +513,10 @@
 		<description>Header h1</description>
 		<hindi>ह6</hindi>
 		<marathi>ह6</marathi>
-		<odia>ଶୀର୍ଷଲେଖ ୬</odia>
+		<odia>ଶୀର୍ଷଲେଖ୬</odia>
+        <telugu>హె6</telugu>
+        <gujarati>હ6</gujarati>
+        <kannada>ಹ್6</kannada>
 	</BML>
 	<BML>
 		<name>hr</name>
@@ -383,6 +525,9 @@
 		<hindi>हर</hindi>
 		<marathi>हर</marathi>
 		<odia>ହର</odia>
+        <telugu>హెర్</telugu>
+        <gujarati>હર</gujarati>
+        <kannada>ಹರ್</kannada>
 	</BML>
 	<BML>
 		<name>iframe</name>
@@ -391,6 +536,9 @@
 		<hindi>इफर्ेम</hindi>
 		<marathi>इफर्ेम</marathi>
 		<odia>ଇଁଫ୍ରାମେ</odia>
+        <telugu>ఐఫ్రేమ్</telugu>
+        <gujarati>આઈફ્રેમ</gujarati>
+        <kannada>ಇಫ್ರೇಮ್</kannada>
 	</BML>
 	<BML>
 		<name>ilayer</name>
@@ -399,6 +547,9 @@
 		<hindi>इलेयर</hindi>
 		<marathi>इलेयर</marathi>
 		<odia>ଇଲଏର</odia>
+        <telugu>ఐలేయర్</telugu>
+        <gujarati>આઈલેયર</gujarati>
+        <kannada>ಈಲೇಯರ್</kannada>
 	</BML>
 	<BML>
 		<name>img</name>
@@ -407,6 +558,9 @@
 		<hindi>चितर्</hindi>
 		<marathi>प्रतिमा</marathi>
 		<odia>ପ୍ରତିଛବି</odia>
+        <telugu>చిత్రం</telugu>
+        <gujarati>પ્રતિમા</gujarati>
+        <kannada>ಚಿತ್ರ</kannada>
 	</BML>
 	<BML>
 		<name>input</name>
@@ -415,6 +569,9 @@
 		<hindi>इनपुट</hindi>
 		<marathi>इनपुट</marathi>
 		<odia>ଇନପୁଟ୍</odia>
+        <telugu>ఇన్పుట్</telugu>
+        <gujarati>ઇનપુટ</gujarati>
+        <kannada>ಇನ್ಪುಟ್</kannada>
 	</BML>
 	<BML>
 		<name>ins</name>
@@ -423,6 +580,9 @@
 		<hindi>डाल</hindi>
 		<marathi>मधेघाला</marathi>
 		<odia>ଭର୍ତ୍ତି</odia>
+        <telugu>ఇన్స్టాల్</telugu>
+        <gujarati>દાખલકરો</gujarati>
+        <kannada>ಸೇರಿಸಿ</kannada>
 	</BML>
 	<BML>
 		<name>keygen</name>
@@ -430,7 +590,10 @@
 		<description>New Tag:Specifies control for key pair generation.</description>
 		<hindi>कुंजी</hindi>
 		<marathi>किल्ली</marathi>
-		<odia>ଚାବି ଉତ୍ପାଦନ</odia>
+		<odia>ଚାବିଉତ୍ପାଦନ</odia>
+        <telugu>కీజెన్</telugu>
+        <gujarati>ચાવી</gujarati>
+        <kannada>ಕೀ</kannada>
 	</BML>
 	<BML>
 		<name>label</name>
@@ -439,6 +602,9 @@
 		<hindi>लेबल</hindi>
 		<marathi>लेबल</marathi>
 		<odia>ଲେବଲ୍</odia>
+        <telugu>లేబుల్</telugu>
+        <gujarati>લેબલ</gujarati>
+        <kannada>ಲೇಬಲ್</kannada>
 	</BML>
 	<BML>
 		<name>layer</name>
@@ -447,6 +613,9 @@
 		<hindi>लेयर</hindi>
 		<marathi>थर</marathi>
 		<odia>ସ୍ତର</odia>
+        <telugu>పొర</telugu>
+        <gujarati>થર</gujarati>
+        <kannada>ಲೇಯರ್</kannada>
 	</BML>
 	<BML>
 		<name>legend</name>
@@ -455,6 +624,9 @@
 		<hindi>उपाख्या</hindi>
 		<marathi>चित्रविवरण​</marathi>
 		<odia>ଲେଗେନ୍ଦ୍ଵ</odia>
+        <telugu>పురాణం</telugu>
+        <gujarati>દંતકથા</gujarati>
+        <kannada>ದಂತಕಥೆ</kannada>
 	</BML>
 	<BML>
 		<name>li</name>
@@ -463,6 +635,9 @@
 		<hindi>सूची</hindi>
 		<marathi>सूची​</marathi>
 		<odia>ତାଲିକା</odia>
+        <telugu>వద్ద</telugu>
+        <gujarati>સૂચિ</gujarati>
+        <kannada>ಪಟ್ಟಿ</kannada>
 	</BML>
 	<BML>
 		<name>link</name>
@@ -471,6 +646,9 @@
 		<hindi>कड़ी</hindi>
 		<marathi>दुवा​</marathi>
 		<odia>ସଂମ୍ବନ୍ଧ</odia>
+        <telugu>ସଂମ୍ବନ୍ଧ</telugu>
+        <gujarati>કડી</gujarati>
+        <kannada>ಲಿಂಕ್</kannada>
 	</BML>
 	<BML>
 		<name>map</name>
@@ -479,6 +657,9 @@
 		<hindi>नक्शा</hindi>
 		<marathi>नकाशा</marathi>
 		<odia>ମାନଚିତ୍ର</odia>
+        <telugu>పటం</telugu>
+        <gujarati>નકશો</gujarati>
+        <kannada>ನಕ್ಷೆ</kannada>
 	</BML>
 	<BML>
 		<name>mark</name>
@@ -487,6 +668,9 @@
 		<hindi>निशान</hindi>
 		<marathi>खूण​</marathi>
 		<odia>ଚିହ୍ନ</odia>
+        <telugu>గుర్తు</telugu>
+        <gujarati>નિશાની</gujarati>
+        <kannada>ಗುರುತು</kannada>
 	</BML>
 	<BML>
 		<name>marquee</name>
@@ -495,6 +679,9 @@
 		<hindi>मार्की</hindi>
 		<marathi>मार्की​</marathi>
 		<odia>ମାର୍କେ</odia>
+        <telugu>మార్క్యూ</telugu>
+        <gujarati>માર્કી</gujarati>
+        <kannada>ಮಾರ್ಕ್ಯೂ</kannada>
 	</BML>
 	<BML>
 		<name>meta</name>
@@ -503,6 +690,9 @@
 		<hindi>मैटा</hindi>
 		<marathi>मेटा</marathi>
 		<odia>ମେଟା</odia>
+        <telugu>మెటా</telugu>
+        <gujarati>મેટા</gujarati>
+        <kannada>ಮೆಟಾ</kannada>
 	</BML>
 	<BML>
 		<name>meter</name>
@@ -511,6 +701,9 @@
 		<hindi>मीटर</hindi>
 		<marathi>मीटर</marathi>
 		<odia>ମିଟର</odia>
+        <telugu>మీటర్</telugu>
+        <gujarati>મીટર</gujarati>
+        <kannada>ಮೀಟರ್</kannada>
 	</BML>	
 	<BML>
 		<name>multicol</name>
@@ -518,7 +711,10 @@
 		<description>Specifies a multicolumn text flow.</description>
 		<hindi>बहुस्तंभ</hindi>
 		<marathi>बहुस्तंभ</marathi>
-		<odia>ଏକାଧିକ ସ୍ତମ୍ଭ</odia>
+		<odia>ଏକାଧିକସ୍ତମ୍ଭ</odia>
+        <telugu>బహుళకాలమ్</telugu>
+        <gujarati>મલ્ટીકોલ</gujarati>
+        <kannada>ಬಹುಕಾಲಮ್‌ಗಳು</kannada>
 	</BML>
 	<BML>
 		<name>nav</name>
@@ -527,6 +723,9 @@
 		<hindi>पथ</hindi>
 		<marathi>पथ</marathi>
 		<odia>ରାସ୍ତା</odia>
+        <telugu>నావిగేషన్</telugu>
+        <gujarati>નવ</gujarati>
+        <kannada>ಮಾರ್ಗ</kannada>
 	</BML>	
 	<BML>
 		<name>nobr</name>
@@ -535,6 +734,9 @@
 		<hindi>नोबर</hindi>
 		<marathi>नोबर</marathi>
 		<odia>ଅବିରତ</odia>
+        <telugu>విరామాలు-లేవు</telugu>
+        <gujarati>નોબર</gujarati>
+        <kannada>ನೋಬರ್</kannada>
 	</BML>	
 	<BML>
 		<name>noembed</name>
@@ -543,6 +745,9 @@
 		<hindi>नोएम्बेड</hindi>
 		<marathi>नाअंतर्भूत</marathi>
 		<odia>ଏମ୍ବେଡ୍ ନାହିଁ</odia>
+        <telugu>నోఎంబెడ్</telugu>
+        <gujarati>નોએમ્બેડ</gujarati>
+        <kannada>ಹುದುಗಿಲ್ಲ</kannada>
 	</BML>
 	<BML>
 		<name>noscript</name>
@@ -550,7 +755,10 @@
 		<description>Specifies a noscript section</description>
 		<hindi>नोलिपि</hindi>
 		<marathi>नालिपी</marathi>
-		<odia>ଲିପି ନାହିଁ</odia>
+		<odia>ଲିପିନାହିଁ</odia>
+        <telugu>నోస్క్రిప్టు</telugu>
+        <gujarati>નાલિપિ</gujarati>
+        <kannada>ಸ್ಕ್ರಿಪ್ಟ್ ಇಲ್ಲ</kannada>
 	</BML>
 	<BML>
 		<name>script</name>
@@ -559,6 +767,9 @@
 		<hindi>लिपि</hindi>
 		<marathi>लिपी</marathi>
 		<odia>ଲିପି</odia>
+        <telugu>స్క్రిప్ట్</telugu>
+        <gujarati>લિપિ</gujarati>
+        <kannada>ಸ್ಕ್ರಿಪ್ಟ್</kannada>
 	</BML>
 	<BML>
 		<name>object</name>
@@ -567,6 +778,9 @@
 		<hindi>वस्तु</hindi>
 		<marathi>वस्तू</marathi>
 		<odia>ବସ୍ତୁ</odia>
+        <telugu>వస్తువు</telugu>
+        <gujarati>પદાર્થ</gujarati>
+        <kannada>ವಸ್ತು</kannada>
 	</BML>
 	<BML>
 		<name>ol</name>
@@ -574,15 +788,21 @@
 		<description>Specifies an ordered list </description>
 		<hindi>आसूची</hindi>
 		<marathi>अनुक्रम​</marathi>
-		<odia>କ୍ରମରେ ତାଲିକା</odia>
+		<odia>କ୍ରମରେତାଲିକା</odia>
+        <telugu>క్రమజాబితా</telugu>
+        <gujarati>અનુક્રમ</gujarati>
+        <kannada>ಅನುಕ್ರಮ</kannada>
 	</BML>
 	<BML>
 		<name>optgroup</name>
 		<normal_usage><![CDATA[<optgroup>]]></normal_usage>
 		<description>Specifies an option group</description>
 		<hindi>विसमूह</hindi>
-		<marathi>पर्याय गट​​</marathi>
-		<odia>ବିକଳ୍ପ ଗୋଷ୍ଠୀ</odia>
+		<marathi>पर्यायगट​​</marathi>
+		<odia>ବିକଳ୍ପଗୋଷ୍ଠୀ</odia>
+        <telugu>ఎంపికసమూహం</telugu>
+        <gujarati>વિકલ્પજૂથ</gujarati>
+        <kannada>ಸಮಾನಾರ್ಥಕಗುಂಪು</kannada>
 	</BML>
 	<BML>
 		<name>option</name>
@@ -591,6 +811,9 @@
 		<hindi>विकल्प</hindi>
 		<marathi>पर्याय​</marathi>
 		<odia>ବିକଳ୍ପ</odia>
+        <telugu>ఎంపిక</telugu>
+        <gujarati>વિકલ્પ</gujarati>
+        <kannada>ಪರ್ಯಾಯ</kannada>
 	</BML>
 	<BML>
 		<name>output</name>
@@ -599,6 +822,9 @@
 		<hindi>उत्पाद</hindi>
 		<marathi>उत्पाद</marathi>
 		<odia>ଉତ୍ପାଦନ</odia>
+        <telugu>అవుట్పుట్</telugu>
+        <gujarati>ઉત્પાદન</gujarati>
+        <kannada>ಔಟ್ಪುಟ್</kannada>
 	</BML>
 	<BML>
 		<name>p</name>
@@ -607,6 +833,9 @@
 		<hindi>पैरा</hindi>
 		<marathi>परिच्छेद</marathi>
 		<odia>ଅନୁଚ୍ଛେଦ</odia>
+        <telugu>పేరా</telugu>
+        <gujarati>ફકરો</gujarati>
+        <kannada>ಪ್ಯಾರಾಗ್ರಾಫ್</kannada>
 	</BML>	
 	<BML>
 		<name>param</name>
@@ -615,6 +844,9 @@
 		<hindi>परम</hindi>
 		<marathi>परामूल्य​</marathi>
 		<odia>ପାରାମିଟର</odia>
+        <telugu>పరామితి</telugu>
+        <gujarati>પરિમાણ</gujarati>
+        <kannada>ನಿಯತಾಂಕಗಳು</kannada>
 	</BML>	
 	<BML>
 		<name>cite</name>
@@ -623,6 +855,9 @@
 		<hindi>कथन</hindi>
 		<marathi>उद्धृत​</marathi>
 		<odia>ଉଦ୍ଧୃତ</odia>
+        <telugu>ప్రకటన</telugu>
+        <gujarati>સાઈટ</gujarati>
+        <kannada>ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ</kannada>
 	</BML>
 	<BML>
 		<name>code</name>
@@ -631,6 +866,9 @@
 		<hindi>कोड</hindi>
 		<marathi>संकेत</marathi>
 		<odia>କୋଡ୍</odia>
+        <telugu>సంకేతభాష</telugu>
+        <gujarati>કોડ</gujarati>
+        <kannada>ಕೋಡ್</kannada>
 	</BML>
 	<BML>
 		<name>dfn</name>
@@ -639,6 +877,9 @@
 		<hindi>परिभाषा</hindi>
 		<marathi>व्याख्या</marathi>
 		<odia>ସଂଜ୍ଞା</odia>
+        <telugu>నిర్వచనం</telugu>
+        <gujarati>વ્યાખ્યા</gujarati>
+        <kannada>ವ್ಯಾಖ್ಯಾನ</kannada>
 	</BML>
 	<BML>
 		<name>em</name>
@@ -646,7 +887,10 @@
 		<description>Specifies an emphasized text</description>
 		<hindi>ज़ोर</hindi>
 		<marathi>ज़ोर</marathi>
-		<odia>ଜୋର ଦେବା</odia>
+		<odia>ଜୋରଦେବା</odia>
+        <telugu>ఉద్ఘాటించడo</telugu>
+        <gujarati>ભાર</gujarati>
+        <kannada>ಒತ್ತು</kannada>
 	</BML>
 	<BML>
 		<name>kbd</name>
@@ -655,6 +899,9 @@
 		<hindi>कीबोर्ड</hindi>
 		<marathi>कीबोर्ड</marathi>
 		<odia>କୀବୋର୍ଡ୍</odia>
+        <telugu>కీబోర్డ్</telugu>
+        <gujarati>કીબોર્ડ</gujarati>
+        <kannada>ಕೀಬೋರ್ಡ್</kannada>
 	</BML>
 	<BML>
 		<name>samp</name>
@@ -663,6 +910,9 @@
 		<hindi>नमूना</hindi>
 		<marathi>नमूना</marathi>
 		<odia>ନମୁନା</odia>
+        <telugu>నమూనా</telugu>
+        <gujarati>નમૂના</gujarati>
+        <kannada>ಮಾದರಿ</kannada>
 	</BML>
 	<BML>
 		<name>strong</name>
@@ -671,6 +921,9 @@
 		<hindi>बल</hindi>
 		<marathi>प्रबल​</marathi>
 		<odia>ଶକ୍ତିଶାଳୀ</odia>
+        <telugu>శక్తిగల</telugu>
+        <gujarati>મજબૂત</gujarati>
+        <kannada>ಬಲವಾದ</kannada>
 	</BML>
 	<BML>
 		<name>var</name>
@@ -679,6 +932,9 @@
 		<hindi>बदल</hindi>
 		<marathi>परिवर्ती​</marathi>
 		<odia>ଅସ୍ଥିର</odia>
+        <telugu>మార్పు</telugu>
+        <gujarati>પરિવર્તનશીલ</gujarati>
+        <kannada>ವೇರಿಯಬಲ್</kannada>
 	</BML>
 	<BML>
 		<name>pre</name>
@@ -687,6 +943,9 @@
 		<hindi>पूर्व</hindi>
 		<marathi>पूर्व</marathi>
 		<odia>ପୂର୍ବ</odia>
+        <telugu>ప్రీఫార్మాట్</telugu>
+        <gujarati>પૂર્વ</gujarati>
+        <kannada>ಪೂರ್ವ</kannada>
 	</BML>
 	<BML>
 		<name>progress</name>
@@ -695,6 +954,9 @@
 		<hindi>प्रगति</hindi>
 		<marathi>प्रगति</marathi>
 		<odia>ପ୍ରଗତି</odia>
+        <telugu>పురోగతి</telugu>
+        <gujarati>પ્રગતિ</gujarati>
+        <kannada>ಪ್ರಗತಿ</kannada>
 	</BML>
 	<BML>
 		<name>q</name>
@@ -703,6 +965,9 @@
 		<hindi>क़्</hindi>
 		<marathi>अवतरण​</marathi>
 		<odia>ଉଦ୍ଧୃତି</odia>
+        <telugu>కొటేషన్</telugu>
+        <gujarati>અવતરણ</gujarati>
+        <kannada>ಉದ್ಧರಣ</kannada>
 	</BML>
 	<BML>
 		<name>ruby</name>
@@ -711,6 +976,9 @@
 		<hindi>रूबी</hindi>
 		<marathi>रूबी​</marathi>
 		<odia>ରୁବି</odia>
+        <telugu>రూబీ</telugu>
+        <gujarati>રૂબી</gujarati>
+        <kannada>ರೂಬಿ</kannada>
 	</BML>
 	<BML>
 		<name>section</name>
@@ -719,6 +987,9 @@
 		<hindi>भाग</hindi>
 		<marathi>भाग​</marathi>
 		<odia>ବିଭାଗ</odia>
+        <telugu>విభాగం</telugu>
+        <gujarati>ભાગ</gujarati>
+        <kannada>ವಿಭಾಗ</kannada>
 	</BML>	
 	<BML>
 		<name>select</name>
@@ -727,6 +998,9 @@
 		<hindi>चयन</hindi>
 		<marathi>निवड​</marathi>
 		<odia>ଚୟନ</odia>
+        <telugu>ఎంచుకోండి</telugu>
+        <gujarati>ચયન</gujarati>
+        <kannada>ಆಯ್ಕೆ</kannada>
 	</BML>	
 	<BML>
 		<name>spacer</name>
@@ -735,6 +1009,9 @@
 		<hindi>अंतर</hindi>
 		<marathi>अन्तरक​</marathi>
 		<odia>ଅନ୍ତର</odia>
+        <telugu>స్థలం</telugu>
+        <gujarati>જગ્યા</gujarati>
+        <kannada>ಅಂತರ</kannada>
 	</BML>	
 	<BML>
 		<name>span</name>
@@ -743,6 +1020,9 @@
 		<hindi>पाट</hindi>
 		<marathi>विस्तार​</marathi>
 		<odia>ଅଂଶ</odia>
+        <telugu>భాగం</telugu>
+        <gujarati>વિસ્તાર</gujarati>
+        <kannada>ಭಾಗ</kannada>
 	</BML>	
 	<BML>
 		<name>style</name>
@@ -751,6 +1031,9 @@
 		<hindi>शैली</hindi>
 		<marathi>शैली​</marathi>
 		<odia>ଶୈଳୀ</odia>
+        <telugu>శైలి</telugu>
+        <gujarati>શૈલી</gujarati>
+        <kannada>ಶೈಲಿ</kannada>
 	</BML>
 	<BML>
 		<name>sub</name>
@@ -759,6 +1042,9 @@
 		<hindi>अनु</hindi>
 		<marathi>तलरेखित​</marathi>
 		<odia>ସବ୍</odia>
+        <telugu>సబ్స్క్రిప్ట్</telugu>
+        <gujarati>સબ</gujarati>
+        <kannada>ಉಪ</kannada>
 	</BML>
 	<BML>
 		<name>sup</name>
@@ -767,6 +1053,9 @@
 		<hindi>उत्तम</hindi>
 		<marathi>शिरोरेखित​</marathi>
 		<odia>ସପ</odia>
+        <telugu>సూపర్స్క్రిప్ట్</telugu>
+        <gujarati>ઉત્તમ</gujarati>
+        <kannada>ಉತ್ತಮ</kannada>
 	</BML>
 	<BML>
 		<name>table</name>
@@ -775,22 +1064,31 @@
 		<hindi>टेबल</hindi>
 		<marathi>तालिका</marathi>
 		<odia>ଟେବୁଲ୍</odia>
+        <telugu>పట్టిక</telugu>
+        <gujarati>ટેબલ</gujarati>
+        <kannada>ಟೇಬಲ್</kannada>
 	</BML>
 	<BML>
 		<name>tbody</name>
 		<normal_usage><![CDATA[<tbody>]]></normal_usage>
 		<description>Specifies a table body</description>
 		<hindi>टीबौडी</hindi>
-		<marathi>ता-बॉडी​</marathi>
-		<odia>ଟେବୁଲ୍ ଶରୀର</odia>
+		<marathi>ताबॉडी​</marathi>
+		<odia>ଟେବୁଲ୍ଶରୀର</odia>
+        <telugu>టేబుల్బాడీ</telugu>
+        <gujarati>ટીબોડી</gujarati>
+        <kannada>ಟಿಬಾಡಿ</kannada>
 	</BML>
 	<BML>
 		<name>td</name>
 		<normal_usage><![CDATA[<td>]]></normal_usage>
 		<description>Specifies a table cell</description>
 		<hindi>टीडी</hindi>
-		<marathi>ता-डेटा​</marathi>
-		<odia>ଟେବୁଲ୍ କକ୍ଷ</odia>
+		<marathi>ताडेटा​</marathi>
+		<odia>ଟେବୁଲ୍କକ୍ଷ</odia>
+        <telugu>టేబుల్సెల్</telugu>
+        <gujarati>ટીડી</gujarati>
+        <kannada>ಟಿಡಿ</kannada>
 	</BML>
 	<BML>
 		<name>textarea</name>
@@ -798,31 +1096,43 @@
 		<description>Specifies a text area.</description>
 		<hindi>पाठक्षेत्र</hindi>
 		<marathi>पाठ्यक्षेत्र​</marathi>
-		<odia>ପାଠ୍ୟ କ୍ଷେତ୍ର</odia>
+		<odia>ପାଠ୍ୟକ୍ଷେତ୍ର</odia>
+        <telugu>టెక్స్ట్ప్రాంతం</telugu>
+        <gujarati>પાઠવિસ્તાર</gujarati>
+        <kannada>ಪಠ್ಯಪ್ರದೇಶ</kannada>
 	</BML>
 	<BML>
 		<name>tfoot</name>
 		<normal_usage><![CDATA[<tfoot>]]></normal_usage>
 		<description>Specifies a table footer.</description>
 		<hindi>टीफुट</hindi>
-		<marathi>ता-तळ​​</marathi>
-		<odia>ଟେବୁଲ୍ ନିମ୍ନରେ</odia>
+		<marathi>तातळ​​</marathi>
+		<odia>ଟେବୁଲ୍ନିମ୍ନରେ</odia>
+        <telugu>టేబుల్ఫుటరు.</telugu>
+        <gujarati>ટીફૂટ</gujarati>
+        <kannada>ಟಿಫುಟ್</kannada>
 	</BML>
 	<BML>
 		<name>th</name>
 		<normal_usage><![CDATA[<th>]]></normal_usage>
 		<description>Specifies a table header.</description>
 		<hindi>टीह</hindi>
-		<marathi>ता-हेडर​</marathi>
-		<odia>ଟେବୁଲ୍ ଶୀର୍ଷଲେଖ</odia>
+		<marathi>ताहेडर​</marathi>
+		<odia>ଟେବୁଲ୍ଶୀର୍ଷଲେଖ</odia>
+        <telugu>టేబుల్హెడర్.</telugu>
+        <gujarati>ટીહેડર</gujarati>
+        <kannada>ಟೇಬಲ್ಹೆಡರ್</kannada>
 	</BML>
 	<BML>
 		<name>thead</name>
 		<normal_usage><![CDATA[<thead>]]></normal_usage>
 		<description>Specifies a table header.</description>
 		<hindi>टीहैड</hindi>
-		<marathi>ता-हेड​</marathi>
-		<odia>ଟେବୁଲ୍ ଶୀର୍ଷ</odia>
+		<marathi>ताहेड​</marathi>
+		<odia>ଟେବୁଲ୍ଶୀର୍ଷ</odia>
+        <telugu>టేబుల్హెడ్</telugu>
+        <gujarati>ટીહેડ</gujarati>
+        <kannada>ಟಿಹೆಡ್</kannada>
 	</BML>
 	<BML>
 		<name>time</name>
@@ -831,22 +1141,31 @@
 		<hindi>समय</hindi>
 		<marathi>वेळ​</marathi>
 		<odia>ସମୟ</odia>
+        <telugu>సమయం</telugu>
+        <gujarati>સમય</gujarati>
+        <kannada>ಸಮಯ</kannada>
 	</BML>
 	<BML>
 		<name>title</name>
 		<normal_usage><![CDATA[<title>]]></normal_usage>
 		<description>Specifies the document title</description>
 		<hindi>शीर्षक</hindi>
-		<marathi>शीर्षक​</marathi>
+		<marathi>पदवी</marathi>
 		<odia>ଆଖ୍ୟା</odia>
+        <telugu>శీర్షిక</telugu>
+        <gujarati>શીર્ષક</gujarati>
+        <kannada>ಶೀರ್ಷಿಕೆ</kannada>
 	</BML>
 	<BML>
 		<name>tr</name>
 		<normal_usage><![CDATA[<tr>]]></normal_usage>
 		<description>Specifies the table row</description>
 		<hindi>टीर</hindi>
-		<marathi>ता-ओळ</marathi>
-		<odia>ଟେବୁଲ୍ ଧାଡି</odia>
+		<marathi>ताओळ</marathi>
+		<odia>ଟେବୁଲ୍ଧାଡି</odia>
+        <telugu>పట్టికవరుస</telugu>
+        <gujarati>ટીપંક્તિ</gujarati>
+        <kannada>ಟೇಬಲ್ಸಾಲುಗಳು</kannada>
 	</BML>
 	<BML>
 		<name>ul</name>
@@ -854,7 +1173,10 @@
 		<description>Specifies an unordered list</description>
 		<hindi>असूची</hindi>
 		<marathi>अक्रमित​</marathi>
-		<odia>ଅନିୟମିତ ତାଲିକା</odia>
+		<odia>ଅନିୟମିତତାଲିକା</odia>
+        <telugu>క్రమంలేనిజాబితా</telugu>
+        <gujarati>અનિયંત્રિતયાદી</gujarati>
+        <kannada>ಅನಿಯಮಿತಪಟ್ಟಿ</kannada>
 	</BML>
 	<BML>
 		<name>video</name>
@@ -863,6 +1185,9 @@
 		<hindi>वीडियो</hindi>
 		<marathi>वीडियो​</marathi>
 		<odia>ଭିଡିଓ</odia>
+        <telugu>వీడియో</telugu>
+        <gujarati>વિડિઓ</gujarati>
+        <kannada>ವೀಡಿಯೊ</kannada>
 	</BML>
 	<BML>
 		<name>wbr</name>
@@ -871,22 +1196,31 @@
 		<hindi>वबर</hindi>
 		<marathi>वबर​</marathi>
 		<odia>ବର୍ବର</odia>
+        <telugu>లైన్బ్రేక్</telugu>
+        <gujarati>વબર</gujarati>
+        <kannada>ವಬರ್</kannada>
 	</BML>
 	<BML>
-		<name>language</name>
+		<name>language=</name>
 		<normal_usage><![CDATA[attrbute: used as Script language=]]></normal_usage>
 		<description>Attribute for script</description>
-		<hindi>भाषा</hindi>
-		<marathi>भाषा​</marathi>
-		<odia>ଭାଷା</odia>
+		<hindi>भाषा=</hindi>
+		<marathi>भाषा​=</marathi>
+		<odia>ଭାଷା=</odia>
+        <telugu>భాష=</telugu>
+        <gujarati>ભાષા=</gujarati>
+        <kannada>ಭಾಷೆ=</kannada>
 	</BML>
 	<BML>
-		<name>href</name>
+		<name>href=</name>
 		<normal_usage><![CDATA[attrbute: used as a href=]]></normal_usage>
 		<description>Attribute for anchor tag</description>
-		<hindi>लिंक</hindi>
-		<marathi>लिंक​</marathi>
-		<odia>ସନ୍ଦର୍ଭ</odia>
+		<hindi>लिंक=</hindi>
+		<marathi>दुवा=</marathi>
+		<odia>ସନ୍ଦର୍ଭ=</odia>
+        <telugu>లింక్=</telugu>
+        <gujarati>ચરેફ=</gujarati>
+        <kannada>ಲಿಂಕ್=</kannada>
 	</BML>
 	<BML>
 		<name>function</name>
@@ -895,6 +1229,9 @@
 		<hindi>काम</hindi>
 		<marathi>क्रिया</marathi>
 		<odia>କାର୍ଯ୍ୟ</odia>
+        <telugu>పని</telugu>
+        <gujarati>કાર્ય</gujarati>
+        <kannada>ಕೆಲಸ</kannada>
 	</BML>
 	<BML>
 		<name>alert</name>
@@ -903,13 +1240,19 @@
 		<hindi>चेतावनी</hindi>
 		<marathi>सूचना</marathi>
 		<odia>ସତର୍କ</odia>
+        <telugu>జాగ్రత్త</telugu>
+        <gujarati>ચેતવણી</gujarati>
+        <kannada>ಎಚ್ಚರಿಕೆ</kannada>
 	</BML>
 	<BML>
-		<name>type</name>
+		<name>type=</name>
 		<normal_usage><![CDATA[attrbute: used in html for input and other things]]></normal_usage>
 		<description>Attribute for alert tag</description>
-		<hindi>प्रकार</hindi>
-		<marathi>प्रकार</marathi>
-		<odia>ପ୍ରକାର</odia>
+		<hindi>प्रकार=</hindi>
+		<marathi>प्रकार=</marathi>
+		<odia>ପ୍ରକାର=</odia>
+        <telugu>రకం=</telugu>
+        <gujarati>પ્રકાર=</gujarati>
+        <kannada>ಮಾದರಿ=</kannada>
 	</BML>
 </root>

@@ -5,7 +5,7 @@ class Hindi(object):
 
 	def base_file_message(self):
 		base_message = ""
-		base_message += "<!-- CREATED BY <भमल> (BHAML)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
+		base_message += "<!-- CREATED BY (BHAML HINDI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
 		base_message += "<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->\n"
 		base_message += "<भमल>"
 		base_message += "\n\n\t<हैड>"
@@ -41,7 +41,7 @@ class Hindi(object):
 								"ी","ु","ू","ृ","ॄ","ॢ",
 								"ॣ","े","ै","ो","ौ","ँ",
 								"ं","ः","़"
-								]
+							 ]
 
 
 		return button_string_array
