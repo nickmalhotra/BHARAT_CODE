@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
-
+import re
 from tkinter import *
 from tkinter import filedialog
 from tkinter import font
 from tkinter import messagebox 
 import xml.etree.ElementTree as ET 
-from ttkthemes import themed_tk as tk 
+from ttkthemes import ThemedStyle 
 from Language_Factory import *
-
-# Everything in Tkinter is a widget, so let us create a root widget.This has to happen before 
 
 
 #Defines a cluster of buttons and total buttons in a line
@@ -17,18 +15,22 @@ TOTAL_IN_A_LINE = 30
 global base_language
 base_language = "hindi"
 
-lang_dict = {"Hindi": Hindi,"Marathi":Marathi,"Odia":Odia,"Tamil":Tamil,"Bangla":Bangla,"Gujarati":Gujarati,
+lang_dict = {"Hindi": Hindi,"Marathi":Marathi,"Odia":Odia,"Gujarati":Gujarati,
 			 "Telugu":Telugu,"Kannada":Kannada,"Punjabi":Punjabi,"Malayalam":Malayalam} 
 
 
 global selected 
 selected = False
 
+# Everything in Tkinter is a widget, so let us create a root widget.This has to happen before 
 root = Tk()
 root.title('BHAML - BHARAT MARK UP LANGUAGE EDITOR')
 photo = PhotoImage(file = "images/india.png")
 root.iconphoto(True, photo)
 root.geometry('1500x800')
+
+style= ThemedStyle(root)
+style.set_theme('smog')
 
 
 #Global variable kept for the BHAML tags 
@@ -106,10 +108,10 @@ def open_file():
 	name = text_file
 	root.title(f'{name} - Bharat Code!')
 
-	try:
-		#Open file
-		with open(text_file,'r',encoding='utf8') as f:
-			file_data = f.read()
+	#try:
+	#Open file
+	with open(text_file,'r',encoding='utf8') as f:
+		file_data = f.read()
 
 		if file_data:
 			#Delete previous text
@@ -142,8 +144,9 @@ def open_file():
 			create_language_widgets(base_language)
 		else:
 			pass
-	except:
-		messagebox.showinfo("File Opening Info", "File not found!! Please choose a file to load") 
+	
+	#except:
+		#messagebox.showinfo("File Opening Info", "File not found!! Please choose a file to load") 
 
 #Create a save file function
 def save_file():
@@ -164,7 +167,7 @@ def save_file():
 					base_language = key
 					
 
-			print("Base Language Found..." + base_language)
+			#print("Base Language Found..." + base_language)
 
 			#Step 2. Get the file extension
 			file_splitted = open_status_name.split(".")
@@ -180,23 +183,36 @@ def save_file():
 			#Step 4. If the file extension is "BHAML, then open again and rewrite the html construct"
 			if str(file_extension).lower() == "bhaml":
 				
-				print("BHAML Text Found....\n")
+				#print("BHAML Text Found....\n")
 				#print("The base language is " +base_language)
 				tags_array = read_bharat_xml(base_language)
 
 				for i in range(len(tags_array)): 
 					split_tags = str(tags_array[i]).split("!#@")
-					#print(split_tags)
 					lang_tag = split_tags[-1].replace("]","")
 					lang_tag = lang_tag.replace("'","")
 					html_eng_tag = split_tags[0].replace("[","")
+					
 					if(final_html_text.find(lang_tag) > -1): 
 						#print("Found Hindi tag:\t" + hindi_tag+"\n")
 						#print("Found english tag:\t" + html_eng_tag+"\n")
-						final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						#NOW REPLACE TAGS
+						index_of_bhaml_tag = final_html_text.find(lang_tag)
+						
+						#Get the full word
+						lang_word =  str(final_html_text[index_of_bhaml_tag:index_of_bhaml_tag+len(lang_tag)])
+						
+						if(final_html_text[index_of_bhaml_tag-1] == "<" and final_html_text[index_of_bhaml_tag+len(lang_tag)] == ">"):
+							#print("Pure tag found....replacing...")
+							final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						elif(final_html_text[index_of_bhaml_tag-1] == "<" ):
+							if final_html_text[index_of_bhaml_tag+len(lang_tag)]==" ":					
+								final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
 
 				with open(file_name+'.html','w', encoding='utf-8') as f:
 					f.write(final_html_text)
+			else:
+				messagebox.showinfo("File Opening Info", "Please only load a .BHAML file") 
 	else:
 		save_as_file()
 
@@ -229,29 +245,43 @@ def save_as_file():
 			#Use final text now to save as HTML also
 			final_html_text = final_text
 
+
 			#Step 4. If the file extension is "BHAML, then open again and rewrite the html construct"
 			if str(file_extension).lower() == "bhaml":
 				
-				print("BHAML Text Found....\n")
+				#print("BHAML Text Found....\n")
 				#print("The base language is " +base_language)
 				tags_array = read_bharat_xml(base_language)
 
+				# HTML tag replacement
 				for i in range(len(tags_array)): 
 					split_tags = str(tags_array[i]).split("!#@")
 					lang_tag = split_tags[-1].replace("]","")
 					lang_tag = lang_tag.replace("'","")
 					html_eng_tag = split_tags[0].replace("[","")
-
-
+					
 					if(final_html_text.find(lang_tag) > -1): 
 						#print("Found Hindi tag:\t" + hindi_tag+"\n")
 						#print("Found english tag:\t" + html_eng_tag+"\n")
 						#NOW REPLACE TAGS
 						index_of_bhaml_tag = final_html_text.find(lang_tag)
-						final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						
+						#Get the full word
+						lang_word =  str(final_html_text[index_of_bhaml_tag:index_of_bhaml_tag+len(lang_tag)])
+						
+						if(final_html_text[index_of_bhaml_tag-1] == "<" and final_html_text[index_of_bhaml_tag+len(lang_tag)] == ">"):
+							#print("Pure tag found....replacing...")
+							final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						elif(final_html_text[index_of_bhaml_tag-1] == "<" ):
+							if final_html_text[index_of_bhaml_tag+len(lang_tag)]==" ":					
+								final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						
 
 				with open(file_name+'.html','w', encoding='utf-8') as f:
 					f.write(final_html_text)
+			else:
+				messagebox.showinfo("File Opening Info", "Please only save as a .BHAML file") 
+
 
 #Create a function to look at click of a button
 def alpha_click(my_text,alpha):
@@ -411,8 +441,6 @@ def create_menu(root):
 	lang_menu.add_command(label="हिंदी - Hindi", command=lambda:change_language('hindi'))
 	lang_menu.add_command(label="मराठी - Marathi", command=lambda:change_language('marathi'))
 	lang_menu.add_command(label="ଓଡିଆ - Odia", command=lambda:change_language('odia'))
-	lang_menu.add_command(label="தமிழ் - Tamil", command=lambda:change_language('tamil'))
-	lang_menu.add_command(label="বাংলা - Bangla", command=lambda:change_language('bangla'))
 	lang_menu.add_command(label="ગુજરાતી - Gujarati", command=lambda:change_language('gujarati'))
 	lang_menu.add_command(label="తెలుగు - Telugu", command=lambda:change_language('telugu'))
 	lang_menu.add_command(label="ಕನ್ನಡ - Kannada", command=lambda:change_language('kannada'))
@@ -445,7 +473,7 @@ def read_bharat_xml(language):
 		my_text_right.insert(INSERT,"QUICK SUMMARY OF TAGS\n\n")
 		for tags in root.findall('BML'):
 			elements=""
-			elements = tags.find('name').text + "!#@" + tags.find('normal_usage').text + "!#@" +tags.find('description').text + "!#@"+tags.find(base_language).text
+			elements = tags.find('name').text + "!#@" + tags.find('normal_usage').text + "!#@" +tags.find('description').text + "!#@"+tags.find(base_language.lower()).text
 			bml_tags.append(elements)
 	except:
 		my_text_right.delete(1.0,END)
@@ -458,12 +486,13 @@ my_menu,file_menu,edit_menu,lang_menu = create_menu(root)
 tags_array = read_bharat_xml(base_language)
 format_text(my_text_right,tags_array)
 
-#def find_text(e):
+'''def find_text(e):
 	if e: 
 		#Grab the position of the cursor
 		position = my_text.index(INSERT)
 		#Insert the text in the position
 		my_text.insert(position,'अ')
+'''
 
 #Edit Bindings
 root.bind('<Control-Key-x>',cut_text)

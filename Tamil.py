@@ -5,7 +5,7 @@ class Tamil(object):
 
 	def base_file_message(self):
 		base_message = ""
-		base_message += "<!-- CREATED BY <ଭମଳ> (BHAML TAMIL)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
+		base_message += "<!-- CREATED BY (BHAML TAMIL)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
 		base_message += "<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->\n"
 		base_message += "<ଭମଳ>"
 		base_message += "\n\n\t<ମୁଣ୍ଡ>"

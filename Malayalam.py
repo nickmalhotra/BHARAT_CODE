@@ -5,43 +5,43 @@ class Malayalam(object):
 
 	def base_file_message(self):
 		base_message = ""
-		base_message += "<!-- CREATED BY <ଭମଳ> (BHAML MALAYALAM)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
+		base_message += "<!-- CREATED BY (BHAML MALAYALAM)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->\n"
 		base_message += "<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->\n"
-		base_message += "<ଭମଳ>"
-		base_message += "\n\n\t<ମୁଣ୍ଡ>"
-		base_message += "\n\t\t<ଆଖ୍ୟା>भारत कोड</ଆଖ୍ୟା>"
-		base_message += "\n\t<ଲିପି ଭାଷା=""Javascript"">"
-		base_message += "\n\n\t\tକାର୍ଯ୍ୟ message()"
+		base_message += "<ഹ്റമാൽ>"
+		base_message += "\n\n\t<ഹെഡ്>"
+		base_message += "\n\t\t<ടൈറ്റിൽ>भारत कोड</ടൈറ്റിൽ>"
+		base_message += "\n\t<സ്കിര്പട് language=""Javascript"">"
+		base_message += "\n\n\t\tfunction message()"
 		base_message += "\n\n\t\t{"
-		base_message += "\n\n\t\t\tସତର୍କ('hello world!');"
+		base_message += "\n\n\t\t\talert('hello world!');"
 		base_message += "\n\n\t\t}"
-		base_message += "\n\n\t</ଲିପି>"
-		base_message += "\n\t</ମୁଣ୍ଡ>"
-		base_message += "\n\n\t<ଶରୀର>"
-		base_message += "\n\t\t<ଅନୁଚ୍ଛେଦ>Hello there! mera naam Nikhil hai!</ଅନୁଚ୍ଛେଦ>"
-		base_message += "\n\t\t<ଏ ସନ୍ଦର୍ଭ=""http://www.google.com"">Google</ଏ>"
-		base_message += "\n\t\t<ଇନପୁଟ୍ ପ୍ରକାର=ବଟନ୍ value='कलिक' onClick='message();'></ଇନପୁଟ୍>"
-		base_message += "\n\t</ଶରୀର>"
-		base_message += "\n\n</ଭମଳ>"
+		base_message += "\n\n\t</സ്കിര്പട്>"
+		base_message += "\n\t</ഹെഡ്>"
+		base_message += "\n\n\t<ബോഡി>"
+		base_message += "\n\t\t<പി>Hello there! mera naam Nikhil hai!</പി>"
+		base_message += "\n\t\t<അ href=""http://www.google.com"">Google</അ>"
+		base_message += "\n\t\t<ഇന്പുട് type=button value='कलिक' onClick='message();'></ഇന്പുട്>"
+		base_message += "\n\t</ബോഡി>"
+		base_message += "\n\n</ഹ്റമാൽ>"
 
 		return base_message 
 
 	def button_strings(self):
 		button_string_array = [
-								"ଅ"," ଆ","ା","ବ","ଭ","ଚ",
-								"ଛ","କ୍ଷ","ଦ","ଧ","ଡ","ଢ",
-								"ଦ୍ଧ","ଦ୍ଵ","ଦ୍ଯ","ଦ୍ଦ","ଦ୍ନ","ଦ୍ମ",
-								"େ","ୈ","ଏ","ଐ ୖ","ଫ","ଗ",
-								"ଘ","ଙ","ହ","ହ୍ମ","ହ୍ଯ","ହ୍ଲ",
-								"ହ୍ନ","ହ୍ଵ","ି"," ୀ","ଇ","ଈ",
-								"ଜ","ଝ","ଯ","ଞ","ଜ୍ଞ","କ",
-								"ଖ","କ୍ତ","ଲ","ଳ"," ୢ","ଌ",
-								"ୡ","ମ","ନ","ଣ","ୋ","ୌ",
-								"ଓ","ଔ"," ୗ","ପ","ର"," ୍ର",
-								" ୃ","ର୍","ଡ଼୍","ଡ଼","ଋ","ଢ଼",
-								"ସ","ଶ","ଷ","ଶ୍ର","ତ","ଥ",
-								"ଟ","ଠ","ତ୍ର","ୁ","ୂ","ଉ","ଊ",
-								"ଵ","ୱ","ବ","ୱ","ଵ","ବ",
-								"୍","ୟ","ଯ","ଂ"," ଃ"," ଁ"," ଼","ଽ","୰" 
+								"ക"," ഖ","ഗ","ഘ","ങ","ച",
+								"ഛ","ജ","ഝ","ഞ","ട","ഠ",
+								"ഡ","ഢ","ണ","ത","ഥ","ദ",
+								"ധ","ന","പ","ഫ","ബ","ഭ",
+								"മ","യ","ര","ല","ള","വ",
+								"ഹ","ശ","ഷ","സ","റ","ഴ",
+								"ൺ","ൻ","ർ","ൽ","ൾ","ൾ",
+								"ൿ","അ","ആ","ഇ","ഈ","ഉ",
+								"ഊ","ാ","ി","ീ","ു","ൂ",
+								"ഋ","ൠ","ഌ","ൡ","എ","ഏ",
+								"ഐ","ഒ","ഓ","ഔ","ൃ","ൄ",
+								"ൢ","ൣ","െ","േ","ൈ","ൊ",
+								"ോ","ൌ","ം","ഃ","ഽ","൦","൧",
+								"൨","൩","൪","൫","൬","൭",
+								"൮","൯","൰","൱","൲" 
 								]
 		return button_string_array
