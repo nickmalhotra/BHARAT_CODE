@@ -33,6 +33,13 @@ style= ThemedStyle(root)
 style.set_theme('smog')
 
 
+'''top = Toplevel()
+filename = PhotoImage(file = "images/Bhaml_v2.png")
+background_label = Label(top, image=filename)
+background_label.place(x=0, y=0, relwidth=1, relheight=1)
+top.geometry('800x600')
+'''
+
 #Global variable kept for the BHAML tags 
 bml_tags = []
 
@@ -205,6 +212,9 @@ def save_file():
 						if(final_html_text[index_of_bhaml_tag-1] == "<" and final_html_text[index_of_bhaml_tag+len(lang_tag)] == ">"):
 							#print("Pure tag found....replacing...")
 							final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						elif(final_html_text[index_of_bhaml_tag-2] == "<" and final_html_text[index_of_bhaml_tag-1] == "/" and final_html_text[index_of_bhaml_tag+len(lang_tag)] == ">"):
+							#print("Pure tag found....replacing...")
+							final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
 						elif(final_html_text[index_of_bhaml_tag-1] == "<" ):
 							if final_html_text[index_of_bhaml_tag+len(lang_tag)]==" ":					
 								final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
@@ -270,6 +280,9 @@ def save_as_file():
 						lang_word =  str(final_html_text[index_of_bhaml_tag:index_of_bhaml_tag+len(lang_tag)])
 						
 						if(final_html_text[index_of_bhaml_tag-1] == "<" and final_html_text[index_of_bhaml_tag+len(lang_tag)] == ">"):
+							#print("Pure tag found....replacing...")
+							final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
+						elif(final_html_text[index_of_bhaml_tag-2] == "<" and final_html_text[index_of_bhaml_tag-1] == "/" and final_html_text[index_of_bhaml_tag+len(lang_tag)] == ">"):
 							#print("Pure tag found....replacing...")
 							final_html_text = final_html_text.replace(lang_tag , html_eng_tag)
 						elif(final_html_text[index_of_bhaml_tag-1] == "<" ):
