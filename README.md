@@ -15,13 +15,16 @@ The code is divided into 3 categories
 2. Language Factor: Which is a fatory based language class
 3. Languages reside in their respective .py file 
 
-Brief: Language is the quintessential component that segregates us as a species from the rest. Language is communication and communication is what keeps the world going . Language and communication can also be broken in two steps
+###Brief###
+Language is the quintessential component that segregates us as a species from the rest. Language is communication and communication is what keeps the world going . Language and communication can also be broken in two steps
 •	 Encoding of thoughts into a language for a speaker
 •	Decoding and understanding what is spoken for a listener
 
 Now, while the above is true, what makes language a difficult challenge is that while thoughts are a continuum , language contains discrete words or lexicons. This causes a bandwidth gap between the two . This gap increases if the language is alien to the mother tongue for a human being 
 
-Premise of Invention: The above challenge is the premise of the invention. While India is the IT solution bowl of the world, there is a vast percentage of people in India (60%) who understand but can barely converse in English. Even within the urban sectors, kids exploring the new age IT development or coding continue to be constrained from typing and udnerstanding English concept. This is the origin of BHAML or Bharat Mark up langauge which is the first in the series of work for Indian diaspora and kids.
+###Premise of Invention###
+
+The above challenge is the premise of the invention. While India is the IT solution bowl of the world, there is a vast percentage of people in India (60%) who understand but can barely converse in English. Even within the urban sectors, kids exploring the new age IT development or coding continue to be constrained from typing and udnerstanding English concept. This is the origin of BHAML or Bharat Mark up langauge which is the first in the series of work for Indian diaspora and kids.
 
 What makes BHAML Unique:
 BHAML has two components which make it unique
