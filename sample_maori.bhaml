@@ -1,0 +1,26 @@
+<!-- CREATED BY (BHAML MAORI)-BHARAT MARKUP LANGUAGE CODE EDITOR v1.0 -->
+<!-------------------- BHAML AUTHOR: NIKHIL MALHOTRA--------------------->
+<BHAML>
+
+	<upoko>
+		<taitara>BHAML Code</taitara>
+	<hōtuhi language=Javascript>
+
+		function message()
+
+		{
+
+			alert('ao ora!');
+
+		}
+
+	</hōtuhi>
+	</upoko>
+
+	<tinana>
+		<kōwae>Kia ora! Ko Saket toku ingoa</kōwae>
+		<a href=http://www.google.com>Google</a>
+		<tāuru type=button value='paatohia' onClick='message();'></tāuru>
+	</tinana>
+
+</BHAML>
