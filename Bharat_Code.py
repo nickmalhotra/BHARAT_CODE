@@ -16,7 +16,7 @@ global base_language
 base_language = "hindi"
 
 lang_dict = {"Hindi": Hindi,"Marathi":Marathi,"Odia":Odia,"Gujarati":Gujarati,
-			 "Telugu":Telugu,"Kannada":Kannada,"Punjabi":Punjabi,"Malayalam":Malayalam} 
+			 "Telugu":Telugu,"Kannada":Kannada,"Punjabi":Punjabi,"Malayalam":Malayalam,"Maori":Maori} 
 
 
 global selected 
@@ -459,6 +459,7 @@ def create_menu(root):
 	lang_menu.add_command(label="ಕನ್ನಡ - Kannada", command=lambda:change_language('kannada'))
 	lang_menu.add_command(label="ਪੰਜਾਬੀ - Punjabi", command=lambda:change_language('punjabi'))
 	lang_menu.add_command(label="മല്യാലം - Malayalam", command=lambda:change_language('malayalam'))
+	lang_menu.add_command(label="Māori - Maori", command=lambda:change_language('maori'))
 
 	return my_menu,file_menu,edit_menu,lang_menu
 

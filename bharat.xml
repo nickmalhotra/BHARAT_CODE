@@ -13,6 +13,7 @@
 		<kannada>ಬಿಎಂಎಲ್</kannada>
 		<tamil>தகவல்</tamil>
 		<malayalam>ഹ്റമാൽ</malayalam>
+		<maori>Māori</maori>
 	</BML>
 	<BML>
 		<name>head</name>
@@ -27,6 +28,7 @@
 		<kannada>ಹೆಡ್</kannada>
 		<tamil>தலை</tamil>
 		<malayalam>ഹെഡ്</malayalam>
+		<maori>upoko</maori>
 	</BML>
 	<BML>
 		<name>header</name>
@@ -41,6 +43,7 @@
 		<kannada>ಹೆಡ್ಡರ್</kannada>
 		<tamil>ஹெடெர்</tamil>
 		<malayalam>ഹെയ്ഡർ</malayalam>
+		<maori>pane</maori>
 	</BML>
 	<BML>
 		<name>doctype</name>
@@ -55,6 +58,7 @@
 		<kannada>ಡಾಕ್ಟೈಪ್</kannada>
 		<tamil>தகவல்வகை</tamil>
 		<malayalam>ഡോക്ടയ്പെ</malayalam>
+		<maori>Tuhinga</maori>
 	</BML>
 	<BML>
 		<name>a</name>
@@ -69,6 +73,7 @@
 		<kannada>ಎ</kannada>
 		<tamil>அ</tamil>
 		<malayalam>അ</malayalam>
+		<maori>a</maori>
 	</BML>
 	<BML>
 		<name>abbr</name>
@@ -83,6 +88,7 @@
 		<kannada>ಎಬಿರ್</kannada>
 		<tamil>சுருங்க</tamil>
 		<malayalam>അബ്ബർ</malayalam>
+		<maori>haapotoraa</maori>
 	</BML>	
 	<BML>
 		<name>address</name>
@@ -97,6 +103,7 @@
 		<kannada>ವಿಳಾಸ</kannada>
 		<tamil>முகவரி</tamil>
 		<malayalam>അഡ്രസ്</malayalam>
+		<maori>wāhitau</maori>
 	</BML>	
 	<BML>
 		<name>area</name>
@@ -111,6 +118,7 @@
 		<kannada>ಪ್ರದೇಶ</kannada>
 		<tamil>பரப்பு</tamil>
 		<malayalam>ഏരിയ</malayalam>
+		<maori>rohe</maori>
 	</BML>	
 	<BML>
 		<name>article</name>
@@ -125,6 +133,7 @@
 		<kannada>ಲೇಖನ</kannada>
 		<tamil>ஆர்டிகள்</tamil>
 		<malayalam>ആർട്ടിക്കിൾ</malayalam>
+		<maori>Tuhinga</maori>
 	</BML>	
 	<BML>
 		<name>aside</name>
@@ -139,6 +148,7 @@
 		<kannada>ಪಕ್ಕಕ್ಕೆ</kannada>
 		<tamil>அருகில்</tamil>
 		<malayalam>അസൈഡ്</malayalam>
+		<maori>peka</maori>
 	</BML>	
 	<BML>
 		<name>audio</name>
@@ -153,6 +163,7 @@
 		<kannada>ಆಡಿಯೋ</kannada>
 		<tamil>ஒலி</tamil>
 		<malayalam>ഓഡിയോ</malayalam>
+		<maori>oro</maori>
 	</BML>		
 	<BML>
 		<name>base</name>
@@ -167,6 +178,7 @@
 		<kannada>ಬೇಸ್</kannada>
 		<tamil>அடிப்படை</tamil>
 		<malayalam>ബസ്</malayalam>
+		<maori>turanga</maori>
 	</BML>	
 	<BML>
 		<name>bdo</name>
@@ -181,6 +193,7 @@
 		<kannada>ಬಿಡಿಓ</kannada>
 		<tamil>பிடிஓ</tamil>
 		<malayalam>ബിഡോ</malayalam>
+		<maori>ahunga</maori>
 	</BML>		
 	<BML>
 		<name>bgsound</name>
@@ -195,6 +208,7 @@
 		<kannada>ಬಿಜಿಸೌಂಡ್</kannada>
 		<tamil>பின்னணிஇசை</tamil>
 		<malayalam>ബിഗ്‌സൗന്ദ്</malayalam>
+		<maori>oropapamuri</maori>
 	</BML>	
 	<BML>
 		<name>blink</name>
@@ -209,6 +223,7 @@
 		<kannada>ಬ್ಲಿಂಕ್</kannada>
 		<tamil>பீலிங்க்</tamil>
 		<malayalam>ബ്ലിങ്ക്</malayalam>
+		<maori>kikimo</maori>
 	</BML>	
 	<BML>
 		<name>blockquote</name>
@@ -223,6 +238,7 @@
 		<kannada>ಬ್ಲಾಕ್‌</kannada>
 		<tamil>வெற்றுகுறிப்பு</tamil>
 		<malayalam>ബ്ലോക്കകോട്</malayalam>
+		<maori>whakahua</maori>
 	</BML>	
 	<BML>
 		<name>body</name>
@@ -237,6 +253,7 @@
 		<kannada>ಬಾಡಿ</kannada>
 		<tamil>முதன்மைபகுதி</tamil>
 		<malayalam>ബോഡി</malayalam>
+		<maori>tinana</maori>
 	</BML>		
 	<BML>
 		<name>br</name>
@@ -251,6 +268,7 @@
 		<kannada>ಬಿರ್</kannada>
 		<tamil>பிஆர்</tamil>
 		<malayalam>ബർ</malayalam>
+		<maori>pakaru</maori>
 	</BML>	
 	<BML>
 		<name>button</name>
@@ -265,6 +283,7 @@
 		<kannada>ಬಟನ್</kannada>
 		<tamil>பட்டன்</tamil>
 		<malayalam>ബട്ടൺ</malayalam>
+		<maori>patene</maori>
 	</BML>	
 	<BML>
 		<name>canvas</name>
@@ -279,6 +298,7 @@
 		<kannada>ಕ್ಯಾನ್ವಾಸ್</kannada>
 		<tamil>வளைவுவடிவம்</tamil>
 		<malayalam>ക്യാൻവാസ്</malayalam>
+		<maori>kānawehi</maori>
 	</BML>	
 	<BML>
 		<name>caption</name>
@@ -293,6 +313,7 @@
 		<kannada>ಕ್ಯಾಪ್ಶನ್</kannada>
 		<tamil>காப்சன்</tamil>
 		<malayalam>ക്യാപ്റ്റിൻ</malayalam>
+		<maori>tapanga</maori>
 	</BML>	
 	<BML>
 		<name>col</name>
@@ -307,6 +328,7 @@
 		<kannada>ಕಾಲಮ್</kannada>
 		<tamil>கொலன்</tamil>
 		<malayalam>കൽ</malayalam>
+		<maori>tīwae</maori>
 	</BML>	
 	<BML>
 		<name>colgroup</name>
@@ -321,6 +343,7 @@
 		<kannada>ಕಾಲಮ್ಗುಂಪು</kannada>
 		<tamil>கொல்குறுப்</tamil>
 		<malayalam>കാൽകുറുപ്</malayalam>
+		<maori>roopupou</maori>
 	</BML>	
 	<BML>
 		<name>command</name>
@@ -335,6 +358,7 @@
 		<kannada>ಆಜ್ಞೆ</kannada>
 		<tamil>ஆணை</tamil>
 		<malayalam>കമെന്റ്</malayalam>
+		<maori>whakahau</maori>
 	</BML>	
 	<BML>
 		<name>comment</name>
@@ -349,6 +373,7 @@
 		<kannada>ಕಾಮೆಂಟ್</kannada>
 		<tamil>பின்குறிப்பு</tamil>
 		<malayalam>കമെന്റ്</malayalam>
+		<maori>korero</maori>
 	</BML>	
 	<BML>
 		<name>datalist</name>
@@ -363,6 +388,7 @@
 		<kannada>ಡೇಟಾಲಿಸ್ಟ್</kannada>
 		<tamil>டேட்டாலிஸ்ட்</tamil>
 		<malayalam>ഡാറ്റലിസ്റ്</malayalam>
+		<maori>rārangiraraunga</maori>
 	</BML>	
 	<BML>
 		<name>dd</name>
@@ -377,6 +403,7 @@
 		<kannada>ಡಿಡಿ</kannada>
 		<tamil>தேதி</tamil>
 		<malayalam>ഡിഡി</malayalam>
+		<maori>whakamāramatanga</maori>
 	</BML>	
 	<BML>
 		<name>del</name>
@@ -391,6 +418,7 @@
 		<kannada>ತೆಗೆದು</kannada>
 		<tamil>அழி</tamil>
 		<malayalam>ഡെൽ</malayalam>
+		<maori>kuamukua</maori>
 	</BML>
 	<BML>
 		<name>details</name>
@@ -405,6 +433,7 @@
 		<kannada>ವಿವರ</kannada>
 		<tamil>டிடைல்</tamil>
 		<malayalam>ഡീറ്റെയിൽസ്</malayalam>
+		<maori>korerotaipitopito</maori>
 	</BML>		
 	<BML>
 		<name>div</name>
@@ -419,6 +448,7 @@
 		<kannada>ಡಿವ್</kannada>
 		<tamil>பகுதி</tamil>
 		<malayalam>ടിവി</malayalam>
+		<maori>wehenga</maori>
 	</BML>	
 	<BML>
 		<name>dl</name>
@@ -433,6 +463,7 @@
 		<kannada>ಡಿಲ್</kannada>
 		<tamil>டிஎல்</tamil>
 		<malayalam>ഡിൽ</malayalam>
+		<maori>rārangiwhakamāramatanga</maori>
 	</BML>	
 	<BML>
 		<name>dt</name>
@@ -447,6 +478,7 @@
 		<kannada>ಡಿಟಿ</kannada>
 		<tamil>டிடீ</tamil>
 		<malayalam>ഡിടി</malayalam>
+		<maori>wāwhakamāramatanga</maori>
 	</BML>	
 	<BML>
 		<name>embed</name>
@@ -461,6 +493,7 @@
 		<kannada>ಸೇರಿಸಿ</kannada>
 		<tamil>எம்பெட்</tamil>
 		<malayalam>എംബെഡ്</malayalam>
+		<maori>tāmau</maori>
 	</BML>	
 	<BML>
 		<name>fieldset</name>
@@ -475,6 +508,7 @@
 		<kannada>ಫೀಲ್ಡ್ಸೆಟ್</kannada>
 		<tamil>பில்ட்செட்</tamil>
 		<malayalam>ഫീൽഡ് സെറ്റ്</malayalam>
+		<maori>mahinga</maori>
 	</BML>	
 	<BML>
 		<name>figure</name>
@@ -489,6 +523,7 @@
 		<kannada>ಫಿಗರ್</kannada>
 		<tamil>படம்</tamil>
 		<malayalam>ഫിഗരേ</malayalam>
+		<maori>whika</maori>
 	</BML>	
 	<BML>
 		<name>b</name>
@@ -503,6 +538,7 @@
 		<kannada>ದಪ್ಪ</kannada>
 		<tamil>தடிமன்</tamil>
 		<malayalam>ബി</malayalam>
+		<maori>maia</maori>
 	</BML>	
 	<BML>
 		<name>i</name>
@@ -517,6 +553,7 @@
 		<kannada>ఐ</kannada>
 		<tamil>சுழிப்பு</tamil>
 		<malayalam>ഇ</malayalam>
+		<maori>i</maori>
 	</BML>		
 	<BML>
 		<name>small</name>
@@ -531,6 +568,7 @@
 		<kannada>ಸಣ್ಣ</kannada>
 		<tamil>சிறிய</tamil>
 		<malayalam>സുമൻ</malayalam>
+		<maori>iti</maori>
 	</BML>		
 	<BML>
 		<name>footer</name>
@@ -545,6 +583,7 @@
 		<kannada>ಫೂಟರ್</kannada>
 		<tamil>புடர்</tamil>
 		<malayalam>ഫുട്ടർ</malayalam>
+		<maori>hiku</maori>
 	</BML>	
 	<BML>
 		<name>form</name>
@@ -559,6 +598,7 @@
 		<kannada>ಫಾರಂ</kannada>
 		<tamil>படிவம்</tamil>
 		<malayalam>ഫാം</malayalam>
+		<maori>puka</maori>
 	</BML>		
 	<BML>
 		<name>hgroup</name>
@@ -573,6 +613,7 @@
 		<kannada>ಹ್ಗ್ರೂಪ್</kannada>
 		<tamil>தலைப்புஇடம்</tamil>
 		<malayalam>ഹെഡ്‍ര്ഗറുപ്</malayalam>
+		<maori>tuhingaomua</maori>
 	</BML>		
 	<BML>
 		<name>h1</name>
@@ -587,6 +628,7 @@
 		<kannada>ಹ್1</kannada>
 		<tamil>எச்1</tamil>
 		<malayalam>ഹ1</malayalam>
+		<maori>h1</maori>
 	</BML>	
 	<BML>
 		<name>h2</name>
@@ -601,6 +643,7 @@
 		<kannada>ಹ್2</kannada>
 		<tamil>எச்2</tamil>
 		<malayalam>ഹ2</malayalam>
+		<maori>h2</maori>
 	</BML>	
 	<BML>
 		<name>h3</name>
@@ -615,6 +658,7 @@
 		<kannada>ಹ್3</kannada>
 		<tamil>எச்3</tamil>
 		<malayalam>ഹ3</malayalam>
+		<maori>h3</maori>
 	</BML>	
 	<BML>
 		<name>h4</name>
@@ -629,6 +673,7 @@
 		<kannada>ಹ್4</kannada>
 		<tamil>எச்4</tamil>
 		<malayalam>ഹ4</malayalam>
+		<maori>h4</maori>
 	</BML>	
 	<BML>
 		<name>h5</name>
@@ -643,6 +688,7 @@
 		<kannada>ಹ್5</kannada>
 		<tamil>எச்5</tamil>
 		<malayalam>ഹ5</malayalam>
+		<maori>h5</maori>
 	</BML>	
 	<BML>
 		<name>h6</name>
@@ -657,6 +703,7 @@
 		<kannada>ಹ್6</kannada>
 		<tamil>எச்6</tamil>
 		<malayalam>ഹ6</malayalam>
+		<maori>h6</maori>
 	</BML>
 	<BML>
 		<name>hr</name>
@@ -671,6 +718,7 @@
 		<kannada>ಹರ್</kannada>
 		<tamil>எச்ஆர்</tamil>
 		<malayalam>ഹർ</malayalam>
+		<maori>hr</maori>
 	</BML>
 	<BML>
 		<name>iframe</name>
@@ -685,6 +733,7 @@
 		<kannada>ಇಫ್ರೇಮ್</kannada>
 		<tamil>ஐபிரேம்</tamil>
 		<malayalam>എഫ്രായിം</malayalam>
+		<maori>angawhakaroto</maori>
 	</BML>
 	<BML>
 		<name>ilayer</name>
@@ -699,6 +748,7 @@
 		<kannada>ಈಲೇಯರ್</kannada>
 		<tamil>ஐலேயர்</tamil>
 		<malayalam>ഇലെയർ</malayalam>
+		<maori>paparangarārangi</maori>
 	</BML>
 	<BML>
 		<name>img</name>
@@ -713,6 +763,7 @@
 		<kannada>ಚಿತ್ರ</kannada>
 		<tamil>இமேஜி</tamil>
 		<malayalam>റിംഗ്</malayalam>
+		<maori>whakapakoko</maori>
 	</BML>
 	<BML>
 		<name>input</name>
@@ -727,6 +778,7 @@
 		<kannada>ಇನ್ಪುಟ್</kannada>
 		<tamil>இன்புட்</tamil>
 		<malayalam>ഇന്പുട്</malayalam>
+		<maori>tāuru</maori>
 	</BML>
 	<BML>
 		<name>ins</name>
@@ -741,6 +793,7 @@
 		<kannada>ಸೇರಿಸಿ</kannada>
 		<tamil>இன்ஸ்</tamil>
 		<malayalam>ഇൻസ്</malayalam>
+		<maori>whakauruhia</maori>
 	</BML>
 	<BML>
 		<name>keygen</name>
@@ -755,6 +808,7 @@
 		<kannada>ಕೀ</kannada>
 		<tamil>கிஜன்</tamil>
 		<malayalam>കീഗൻ</malayalam>
+		<maori>mautaviri</maori>
 	</BML>
 	<BML>
 		<name>label</name>
@@ -769,6 +823,7 @@
 		<kannada>ಲೇಬಲ್</kannada>
 		<tamil>லேபுல்</tamil>
 		<malayalam>ലേബൽ</malayalam>
+		<maori>tapanga</maori>
 	</BML>
 	<BML>
 		<name>layer</name>
@@ -783,6 +838,7 @@
 		<kannada>ಲೇಯರ್</kannada>
 		<tamil>லேயர்</tamil>
 		<malayalam>ലെയർ</malayalam>
+		<maori>paparanga</maori>
 	</BML>
 	<BML>
 		<name>legend</name>
@@ -797,6 +853,7 @@
 		<kannada>ಪುರಾಣ</kannada>
 		<tamil>லேஜெண்ட்</tamil>
 		<malayalam>ലെജൻഡ്</malayalam>
+		<maori>pakiwaitara</maori>
 	</BML>
 	<BML>
 		<name>li</name>
@@ -811,6 +868,7 @@
 		<kannada>ಪಟ್ಟಿ</kannada>
 		<tamil>லிஐ</tamil>
 		<malayalam>ൽഇ</malayalam>
+		<maori>rārangimea</maori>
 	</BML>
 	<BML>
 		<name>link</name>
@@ -825,6 +883,7 @@
 		<kannada>ಕೊ೦ಡಿ</kannada>
 		<tamil>லிங்க்</tamil>
 		<malayalam>ലിങ്ക്</malayalam>
+		<maori>hono</maori>
 	</BML>
 	<BML>
 		<name>map</name>
@@ -839,6 +898,7 @@
 		<kannada>ನಕ್ಷೆ</kannada>
 		<tamil>மேப்</tamil>
 		<malayalam>മാപ്</malayalam>
+		<maori>mapi</maori>
 	</BML>
 	<BML>
 		<name>mark</name>
@@ -853,6 +913,7 @@
 		<kannada>ಗುರುತು</kannada>
 		<tamil>மார்க்</tamil>
 		<malayalam>മാർക്ക്</malayalam>
+		<maori>tohu</maori>
 	</BML>
 	<BML>
 		<name>marquee</name>
@@ -867,6 +928,7 @@
 		<kannada>ಮಾರ್ಕ್ಯೂ</kannada>
 		<tamil>ஓடும்வரிகள்</tamil>
 		<malayalam>മാർക്ക്</malayalam>
+		<maori>toa</maori>
 	</BML>
 	<BML>
 		<name>meta</name>
@@ -881,6 +943,7 @@
 		<kannada>ಮೆಟಾ</kannada>
 		<tamil>மெட்ட</tamil>
 		<malayalam>മെറ്റാ </malayalam>
+		<maori>meta</maori>
 	</BML>
 	<BML>
 		<name>meter</name>
@@ -895,6 +958,7 @@
 		<kannada>ಮೀಟರ್</kannada>
 		<tamil>அளவு</tamil>
 		<malayalam>മീറ്റർ</malayalam>
+		<maori>meter</maori>
 	</BML>	
 	<BML>
 		<name>multicol</name>
@@ -909,6 +973,7 @@
 		<kannada>ಬಹುಕಾಲಮ್‌</kannada>
 		<tamil>மல்டிகால்</tamil>
 		<malayalam>മൾടിക്കൽ</malayalam>
+		<maori>poumaha</maori>
 	</BML>
 	<BML>
 		<name>nav</name>
@@ -923,6 +988,7 @@
 		<kannada>ಮಾರ್ಗ</kannada>
 		<tamil>நவிகேஷன்</tamil>
 		<malayalam>നാവ് </malayalam>
+		<maori>whakaterenga</maori>
 	</BML>	
 	<BML>
 		<name>nobr</name>
@@ -937,6 +1003,7 @@
 		<kannada>ನೋಬರ್</kannada>
 		<tamil>நோபிரேக்</tamil>
 		<malayalam>നോബർ</malayalam>
+		<maori>kahorepakaru</maori>
 	</BML>	
 	<BML>
 		<name>noembed</name>
@@ -951,6 +1018,7 @@
 		<kannada>ಹುದುಗಿಲ್ಲ</kannada>
 		<tamil>நோஎம்பெட்</tamil>
 		<malayalam>നോഎംബെഡ്</malayalam>
+		<maori>kāotāmau</maori>
 	</BML>
 	<BML>
 		<name>noscript</name>
@@ -965,6 +1033,7 @@
 		<kannada>ಸ್ಕ್ರಿಪ್ಟ್ ಇಲ್ಲ</kannada>
 		<tamil>நோஸ்க்ரிப்ட்</tamil>
 		<malayalam>നോ സ്കിര്പട്</malayalam>
+		<maori>kāohōtuhi</maori>
 	</BML>
 	<BML>
 		<name>script</name>
@@ -979,6 +1048,7 @@
 		<kannada>ಸ್ಕ್ರಿಪ್ಟ್</kannada>
 		<tamil>ஸ்க்ரிப்ட்</tamil>
 		<malayalam>സ്കിര്പട്</malayalam>
+		<maori>hōtuhi</maori>
 	</BML>
 	<BML>
 		<name>object</name>
@@ -993,6 +1063,7 @@
 		<kannada>ವಸ್ತು</kannada>
 		<tamil>ஆப்ஜெக்ட்</tamil>
 		<malayalam>അപ്‌ജെക്ട</malayalam>
+		<maori>hōtuhi</maori>
 	</BML>
 	<BML>
 		<name>ol</name>
@@ -1007,6 +1078,7 @@
 		<kannada>ಅನುಕ್ರಮ</kannada>
 		<tamil>ஓஎல்</tamil>
 		<malayalam>ഓൽ </malayalam>
+		<maori>rārangitono</maori>
 	</BML>
 	<BML>
 		<name>optgroup</name>
@@ -1021,6 +1093,7 @@
 		<kannada>ಸಮಾನಾರ್ಥಕಗುಂಪು</kannada>
 		<tamil>ஆப்ட்குரூப்</tamil>
 		<malayalam>അന്പത് ഗ്രൂപ്പ് </malayalam>
+		<maori>roopuwhiriwhiri</maori>
 	</BML>
 	<BML>
 		<name>option</name>
@@ -1035,6 +1108,7 @@
 		<kannada>ಪರ್ಯಾಯ</kannada>
 		<tamil>ஆப்சன்</tamil>
 		<malayalam>അപ്സൺ </malayalam>
+		<maori>whiringa</maori>
 	</BML>
 	<BML>
 		<name>output</name>
@@ -1049,6 +1123,7 @@
 		<kannada>ಔಟ್ಪುಟ್</kannada>
 		<tamil>அவுட்புட்</tamil>
 		<malayalam>അവ്‌ട്പുട്</malayalam>
+		<maori>putanga</maori>
 	</BML>
 	<BML>
 		<name>p</name>
@@ -1063,6 +1138,7 @@
 		<kannada>ಪ್ಯಾರಾ</kannada>
 		<tamil>பராகிராப்</tamil>
 		<malayalam>പി</malayalam>
+		<maori>kōwae</maori>
 	</BML>	
 	<BML>
 		<name>param</name>
@@ -1077,6 +1153,7 @@
 		<kannada>ಪರಂ</kannada>
 		<tamil>பராமீட்டர்</tamil>
 		<malayalam>പപാരാമീറ്റർ </malayalam>
+		<maori>tawhā</maori>
 	</BML>	
 	<BML>
 		<name>cite</name>
@@ -1091,6 +1168,7 @@
 		<kannada>ಉಲ್ಲೇಖ</kannada>
 		<tamil>சைட்</tamil>
 		<malayalam>സിറ്റി</malayalam>
+		<maori>whakahua</maori>
 	</BML>
 	<BML>
 		<name>code</name>
@@ -1105,6 +1183,7 @@
 		<kannada>ಕೋಡ್</kannada>
 		<tamil>கோட்</tamil>
 		<malayalam>കോഡ്</malayalam>
+		<maori>waehere</maori>
 	</BML>
 	<BML>
 		<name>dfn</name>
@@ -1119,6 +1198,7 @@
 		<kannada>ವ್ಯಾಖ್ಯಾನ</kannada>
 		<tamil>டேபிநசன்</tamil>
 		<malayalam>ദീപിൻസാണ് </malayalam>
+		<maori>whakamāramatanga</maori>
 	</BML>
 	<BML>
 		<name>em</name>
@@ -1133,6 +1213,7 @@
 		<kannada>ಒತ್ತು</kannada>
 		<tamil>எம்</tamil>
 		<malayalam>ഇഎം</malayalam>
+		<maori>haapapu</maori>
 	</BML>
 	<BML>
 		<name>kbd</name>
@@ -1147,6 +1228,7 @@
 		<kannada>ಕೀಬೋರ್ಡ್</kannada>
 		<tamil>கீபோர்டு</tamil>
 		<malayalam>കീബോര്ഡ്</malayalam>
+		<maori>papapātuhi</maori>
 	</BML>
 	<BML>
 		<name>samp</name>
@@ -1161,6 +1243,7 @@
 		<kannada>ರಖಮು</kannada>
 		<tamil>சாம்ப்</tamil>
 		<malayalam>സാം</malayalam>
+		<maori>tauira</maori>
 	</BML>
 	<BML>
 		<name>strong</name>
@@ -1175,6 +1258,7 @@
 		<kannada>ಬಲ</kannada>
 		<tamil>ஸ்ட்ரோங்</tamil>
 		<malayalam>സ്ട്രോങ്ങ്</malayalam>
+		<maori>kaha</maori>
 	</BML>
 	<BML>
 		<name>var</name>
@@ -1189,6 +1273,7 @@
 		<kannada>ವರ್</kannada>
 		<tamil>வெர்</tamil>
 		<malayalam>വർ</malayalam>
+		<maori>taurangi</maori>
 	</BML>
 	<BML>
 		<name>pre</name>
@@ -1203,6 +1288,7 @@
 		<kannada>ಪೂರ್ವ</kannada>
 		<tamil>பிரி</tamil>
 		<malayalam>പ്രീ</malayalam>
+		<maori>tuhingaomua</maori>
 	</BML>
 	<BML>
 		<name>progress</name>
@@ -1217,6 +1303,7 @@
 		<kannada>ಪ್ರಗತಿ</kannada>
 		<tamil>ப்ரோக்ரேஸ்</tamil>
 		<malayalam>പ്രോഗ്രസ്സ്</malayalam>
+		<maori>ahungawhakamua</maori>
 	</BML>
 	<BML>
 		<name>q</name>
@@ -1231,6 +1318,7 @@
 		<kannada>ಉದ್ಧರಣ</kannada>
 		<tamil>குடேசன்</tamil>
 		<malayalam>ഖ്</malayalam>
+		<maori>korukī</maori>
 	</BML>
 	<BML>
 		<name>ruby</name>
@@ -1245,6 +1333,7 @@
 		<kannada>ರೂಬಿ</kannada>
 		<tamil>ரூபி</tamil>
 		<malayalam>റൂബി</malayalam>
+		<maori>rupi</maori>
 	</BML>
 	<BML>
 		<name>section</name>
@@ -1259,6 +1348,7 @@
 		<kannada>ವಿಭಾಗ</kannada>
 		<tamil>செகிஷன்</tamil>
 		<malayalam>സെക്ഷൻ</malayalam>
+		<maori>waahanga</maori>
 	</BML>	
 	<BML>
 		<name>select</name>
@@ -1273,6 +1363,7 @@
 		<kannada>ಆಯ್ಕೆ</kannada>
 		<tamil>செலக்ட்</tamil>
 		<malayalam>സെലക്ട്</malayalam>
+		<maori>tīpako</maori>
 	</BML>	
 	<BML>
 		<name>spacer</name>
@@ -1287,6 +1378,7 @@
 		<kannada>ಅಂತರ</kannada>
 		<tamil>ஸ்பேசர்</tamil>
 		<malayalam>സ്‌പീക്കർ</malayalam>
+		<maori>mokowāwhi</maori>
 	</BML>	
 	<BML>
 		<name>span</name>
@@ -1301,6 +1393,7 @@
 		<kannada>ಭಾಗ</kannada>
 		<tamil>ஸ்பேன்</tamil>
 		<malayalam>സ്പിൻ</malayalam>
+		<maori>awhe</maori>
 	</BML>	
 	<BML>
 		<name>style</name>
@@ -1315,6 +1408,7 @@
 		<kannada>ಶೈಲಿ</kannada>
 		<tamil>ஸ்டைல்</tamil>
 		<malayalam>സ്റ്റൈൽ</malayalam>
+		<maori>kāhua</maori>
 	</BML>
 	<BML>
 		<name>sub</name>
@@ -1329,6 +1423,7 @@
 		<kannada>ಉಪ</kannada>
 		<tamil>ஸப்</tamil>
 		<malayalam>സബ് സ്ക്രിപ്ട് </malayalam>
+		<maori>ohaurunga</maori>
 	</BML>
 	<BML>
 		<name>sup</name>
@@ -1343,6 +1438,7 @@
 		<kannada>ಉತ್ತಮ</kannada>
 		<tamil>சூப்பர்ஸ்க்ரிப்ட்</tamil>
 		<malayalam>സൂപ്പർസ്ക്രിപ്ട്</malayalam>
+		<maori>super</maori>
 	</BML>
 	<BML>
 		<name>table</name>
@@ -1357,6 +1453,7 @@
 		<kannada>ಟೇಬಲ್</kannada>
 		<tamil>டேபுள்</tamil>
 		<malayalam>ടേബിൾ</malayalam>
+		<maori>teepu</maori>
 	</BML>
 	<BML>
 		<name>tbody</name>
@@ -1371,6 +1468,7 @@
 		<kannada>ಟಿಬಾಡಿ</kannada>
 		<tamil>டீபாடி</tamil>
 		<malayalam>ടിബേദി</malayalam>
+		<maori>tinanateepu</maori>
 	</BML>
 	<BML>
 		<name>td</name>
@@ -1385,6 +1483,7 @@
 		<kannada>ಟಿಡಿ</kannada>
 		<tamil>டீடி</tamil>
 		<malayalam>ടി ഡി</malayalam>
+		<maori>pūtauteepu</maori>
 	</BML>
 	<BML>
 		<name>textarea</name>
@@ -1399,6 +1498,7 @@
 		<kannada>ಪಠ್ಯಕ್ಷೇತ್ರ</kannada>
 		<tamil>டெஸ்ட்ஏரியா</tamil>
 		<malayalam>ടെക്സ്റ്റ്ഏരിയ</malayalam>
+		<maori>rohekuputuhi</maori>
 	</BML>
 	<BML>
 		<name>tfoot</name>
@@ -1413,6 +1513,7 @@
 		<kannada>ಟಿಫುಟ್</kannada>
 		<tamil>டீபுட்</tamil>
 		<malayalam>ടിഫുട്</malayalam>
+		<maori>teepuhiku</maori>
 	</BML>
 	<BML>
 		<name>th</name>
@@ -1427,6 +1528,7 @@
 		<kannada>ಟಿಹ್</kannada>
 		<tamil>டீஎச்</tamil>
 		<malayalam>ടിഹ</malayalam>
+		<maori>paneteepu</maori>
 	</BML>
 	<BML>
 		<name>thead</name>
@@ -1441,6 +1543,7 @@
 		<kannada>ಟಿಹೆಡ್</kannada>
 		<tamil>டீ எட்</tamil>
 		<malayalam>ടിഹെഡ്</malayalam>
+		<maori>paneteepu</maori>
 	</BML>
 	<BML>
 		<name>time</name>
@@ -1455,6 +1558,7 @@
 		<kannada>ಸಮಯ</kannada>
 		<tamil>டைம்</tamil>
 		<malayalam>ടൈം</malayalam>
+		<maori>wā</maori>
 	</BML>
 	<BML>
 		<name>title</name>
@@ -1469,6 +1573,7 @@
 		<kannada>ಶೀರ್ಷಿಕೆ</kannada>
 		<tamil>தலைப்பு</tamil>
 		<malayalam>ടൈറ്റിൽ</malayalam>
+		<maori>taitara</maori>
 	</BML>
 	<BML>
 		<name>tr</name>
@@ -1483,6 +1588,7 @@
 		<kannada>ಟಿರ್</kannada>
 		<tamil>டீஆர் </tamil>
 		<malayalam>ടിർ</malayalam>
+		<maori>rarangiteepu</maori>
 	</BML>
 	<BML>
 		<name>ul</name>
@@ -1497,6 +1603,7 @@
 		<kannada>ಯುಲ್</kannada>
 		<tamil>யுஎல்</tamil>
 		<malayalam>ഉ ൽ</malayalam>
+		<maori>rārangi</maori>
 	</BML>
 	<BML>
 		<name>video</name>
@@ -1511,6 +1618,7 @@
 		<kannada>ವೀಡಿಯೊ</kannada>
 		<tamil>வீடியோ</tamil>
 		<malayalam>വീഡിയോ</malayalam>
+		<maori>ataata</maori>
 	</BML>
 	<BML>
 		<name>wbr</name>
@@ -1525,5 +1633,6 @@
 		<kannada>ವಬರ್</kannada>
 		<tamil>லைன்பிரேக்</tamil>
 		<malayalam>ഡബിർ</malayalam>
+		<maori>wehengaraina</maori>
 	</BML>
 </root>

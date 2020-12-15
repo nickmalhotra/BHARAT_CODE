@@ -1,0 +1,12 @@
+PyInstaller - 
+PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.
+
+
+Installation - 
+pip install pyinstaller
+
+
+Command to convert Bharat_Code.py to an executable file
+
+	pyinstaller -n=bhaml --onefile --clean -w Bharat_Code.py
+
