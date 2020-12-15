@@ -38,7 +38,7 @@ missing module named grp - imported by shutil (optional), tarfile (optional), pa
 missing module named pwd - imported by posixpath (delayed, conditional), shutil (optional), tarfile (optional), pathlib (delayed, conditional, optional), http.server (delayed, optional), webbrowser (delayed), netrc (delayed, conditional), getpass (delayed), distutils.util (delayed, conditional, optional)
 missing module named posix - imported by os (conditional, optional), shutil (conditional)
 missing module named resource - imported by posix (top-level), test.support (optional)
-missing module named olefile - imported by PIL.MicImagePlugin (top-level), PIL.FpxImagePlugin (top-level)
+missing module named olefile - imported by PIL.FpxImagePlugin (top-level), PIL.MicImagePlugin (top-level)
 missing module named 'PySide2.QtGui' - imported by PIL.ImageQt (conditional, optional)
 missing module named PySide2 - imported by PIL.ImageQt (conditional, optional)
 missing module named 'PyQt5.QtGui' - imported by PIL.ImageQt (conditional, optional)
