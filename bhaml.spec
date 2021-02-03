@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Bharat_Code.py'],
-             pathex=['D:\\Work\\BHARAT_CODE'],
+             pathex=['D:\\Work\\bhaml\\BHARAT_CODE'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='D:\\Work\\BHARAT_CODE\\images\\India.ico')
+          console=False )
