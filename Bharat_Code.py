@@ -16,7 +16,7 @@ global base_language
 base_language = "hindi"
 
 lang_dict = {"Hindi": Hindi,"Marathi":Marathi,"Odia":Odia,"Gujarati":Gujarati,
-			 "Telugu":Telugu,"Kannada":Kannada,"Punjabi":Punjabi,"Malayalam":Malayalam,"Maori":Maori} 
+			 "Telugu":Telugu,"Kannada":Kannada,"Punjabi":Punjabi,"Malayalam":Malayalam,"Maori":Maori,"Japanese":Japanese} 
 
 
 global selected 
@@ -25,7 +25,7 @@ selected = False
 # Everything in Tkinter is a widget, so let us create a root widget.This has to happen before 
 root = Tk()
 root.title('BHAML - BHARAT MARK UP LANGUAGE EDITOR')
-photo = PhotoImage(file = "images/india.png")
+photo = PhotoImage(file = "images/India.png")
 root.iconphoto(True, photo)
 root.geometry('1500x800')
 
@@ -460,6 +460,7 @@ def create_menu(root):
 	lang_menu.add_command(label="ਪੰਜਾਬੀ - Punjabi", command=lambda:change_language('punjabi'))
 	lang_menu.add_command(label="മല്യാലം - Malayalam", command=lambda:change_language('malayalam'))
 	lang_menu.add_command(label="Māori - Maori", command=lambda:change_language('maori'))
+	lang_menu.add_command(label="日本 - Japanese", command=lambda:change_language('japanese'))
 
 	return my_menu,file_menu,edit_menu,lang_menu
 
